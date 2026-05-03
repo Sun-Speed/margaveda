@@ -239,7 +239,7 @@
 
 //   // 🔥 1. Fetch courses
 //   useEffect(() => {
-//     fetch("http://localhost:5000/api/courses")
+//     fetch("https://margaveda.onrender.com/api/courses")
 //       .then((res) => res.json())
 //       .then(setCourses)
 //       .catch(console.error);
@@ -612,7 +612,7 @@ const CareerTree = ({ courseId }) => {
   // FETCH DATA
   /////////////////////////
   useEffect(() => {
-    fetch("http://localhost:5000/api/courses")
+    fetch("https://margaveda.onrender.com/api/courses")
       .then((res) => res.json())
       .then(setCourses)
       .catch(console.error);

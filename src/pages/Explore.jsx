@@ -27,7 +27,7 @@ export default function Explore() {
   const ITEMS_PER_PAGE = 9;
 
   useEffect(() => {
-  fetch(`http://localhost:5000/api/streams/${id}`)
+  fetch(`https://margaveda.onrender.com/api/streams/${id}`)
     .then((res) => res.json())
     .then((data) => {
       setSelectedStream(data);
@@ -38,7 +38,7 @@ export default function Explore() {
   const [courses, setCourses] = useState([]);
 
   useEffect(() => {
-  fetch("http://localhost:5000/api/courses")
+  fetch("https://margaveda.onrender.com/api/courses")
     .then((res) => res.json())
     .then((data) => {
       setCourses(data);

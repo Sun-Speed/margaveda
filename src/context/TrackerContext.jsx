@@ -23,8 +23,8 @@
 //     const fetchData = async () => {
 //       try {
 //         const [coursesRes, streamsRes] = await Promise.all([
-//           axios.get("http://localhost:5000/api/courses"),
-//           axios.get("http://localhost:5000/api/streams"),
+//           axios.get("https://margaveda.onrender.com/api/courses"),
+//           axios.get("https://margaveda.onrender.com/api/streams"),
 //         ]);
 
 //         const courses = coursesRes.data.map((c) => ({
@@ -292,8 +292,8 @@ const TrackerProvider = ({ children }) => {
     const fetchData = async () => {
       try {
         const [coursesRes, streamsRes] = await Promise.all([
-          axios.get("http://localhost:5000/api/courses"),
-          axios.get("http://localhost:5000/api/streams"),
+          axios.get("https://margaveda.onrender.com/api/courses"),
+          axios.get("https://margaveda.onrender.com/api/streams"),
         ]);
 
         const courses = coursesRes.data.map((c) => ({

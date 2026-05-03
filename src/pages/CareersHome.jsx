@@ -32,7 +32,7 @@ const CareersHome = () => {
 
   // 🔥 Fetch careers
   useEffect(() => {
-    fetch("http://localhost:5000/api/jobs")
+    fetch("https://margaveda.onrender.com/api/jobs")
       .then((res) => res.json())
       .then((data) => {
         setCareers(data);

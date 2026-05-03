@@ -37,7 +37,7 @@ const CourseIntelligence = ({ handleViewDetails, careers }) => {
 
   // 🔥 1. Fetch ALL courses (single source of truth)
   useEffect(() => {
-    fetch("http://localhost:5000/api/courses")
+    fetch("https://margaveda.onrender.com/api/courses")
       .then((res) => res.json())
       .then((data) => {
         setAllCourses(data);

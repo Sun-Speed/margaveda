@@ -16,7 +16,7 @@ export const AuthProvider = ({ children }) => {
           return;
         }
 
-        const res = await fetch("http://localhost:5000/api/auth/me", {
+        const res = await fetch("https://margaveda.onrender.com/api/auth/me", {
           headers: {
             Authorization: `Bearer ${token}`,
           },

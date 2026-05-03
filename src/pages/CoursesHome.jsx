@@ -30,7 +30,7 @@ const CoursesHome = () => {
   const [streams, setStreams] = useState([]);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/streams")
+    fetch("https://margaveda.onrender.com/api/streams")
       .then((res) => res.json())
       .then((data) => setStreams(data));
   }, []);

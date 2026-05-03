@@ -47,7 +47,7 @@ const AuthModal = ({ isOpen, onClose, onAuthSuccess }) => {
         return;
       }
 
-      const res = await fetch("http://localhost:5000/api/auth/send-otp", {
+      const res = await fetch("https://margaveda.onrender.com/api/auth/send-otp", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -72,7 +72,7 @@ const AuthModal = ({ isOpen, onClose, onAuthSuccess }) => {
       setVerifyError("");
 
       // ✅ STEP 1: Verify OTP
-      const res = await fetch("http://localhost:5000/api/auth/verify-otp", {
+      const res = await fetch("https://margaveda.onrender.com/api/auth/verify-otp", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -95,7 +95,7 @@ const AuthModal = ({ isOpen, onClose, onAuthSuccess }) => {
       // ==============================
       // 🔵 LOGIN FLOW
       // ==============================
-      const loginRes = await fetch("http://localhost:5000/api/auth/otp-login", {
+      const loginRes = await fetch("https://margaveda.onrender.com/api/auth/otp-login", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -134,7 +134,7 @@ const AuthModal = ({ isOpen, onClose, onAuthSuccess }) => {
         avatar ||
         "https://api.dicebear.com/9.x/avataaars/svg?seed=user-id-121&backgroundColor=b6e3f4,c0aede,d1d4f9,ffd5dc,ffdfbf";
 
-      const res = await fetch("http://localhost:5000/api/auth/signup", {
+      const res = await fetch("https://margaveda.onrender.com/api/auth/signup", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -170,7 +170,7 @@ const AuthModal = ({ isOpen, onClose, onAuthSuccess }) => {
   try {
     setResendLoading(true);
 
-    const res = await fetch("http://localhost:5000/api/auth/send-otp", {
+    const res = await fetch("https://margaveda.onrender.com/api/auth/send-otp", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

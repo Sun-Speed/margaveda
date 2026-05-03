@@ -21,13 +21,13 @@ export default function Pathfinder() {
   const [showModal, setShowModal] = useState(false);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/courses")
+    fetch("https://margaveda.onrender.com/api/courses")
       .then((res) => res.json())
       .then((data) => setCourses(data));
   }, []);
 
   // useEffect(() => {
-  //   fetch("http://localhost:5000/api/paths")
+  //   fetch("https://margaveda.onrender.com/api/paths")
   //     .then((res) => res.json())
   //     .then((data) => {
   //       // console.log("Paths:", data);
@@ -37,7 +37,7 @@ export default function Pathfinder() {
   // }, []);
 
   useEffect(() => {
-    fetch("http://localhost:5000/api/jobs")
+    fetch("https://margaveda.onrender.com/api/jobs")
       .then((res) => res.json())
       .then((data) => {
         setAllCareers(data);

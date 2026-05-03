@@ -11,7 +11,7 @@ const NextPaths = ({ jobid }) => {
 
   // 🔥 Fetch careers
   useEffect(() => {
-    fetch("http://localhost:5000/api/jobs")
+    fetch("https://margaveda.onrender.com/api/jobs")
       .then(res => res.json())
       .then(data => {
         // console.log("Careers:", data);
@@ -22,7 +22,7 @@ const NextPaths = ({ jobid }) => {
 
   // 🔥 Fetch paths
   useEffect(() => {
-    fetch("http://localhost:5000/api/paths")
+    fetch("https://margaveda.onrender.com/api/paths")
       .then(res => res.json())
       .then(data => {
 

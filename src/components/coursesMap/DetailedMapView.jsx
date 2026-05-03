@@ -47,7 +47,7 @@ const DetailedMapView = ({ selectedPath, onClose, onAuthSuccess, careers }) => {
 
       // 🔥 SAVE PATH
       const response = await axios.post(
-        "http://localhost:5000/api/auth/save",
+        "https://margaveda.onrender.com/api/auth/save",
         {
           path: cleanedPath,
         },

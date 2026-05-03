@@ -33,7 +33,7 @@ export default function Footer() {
 
     const response = await axios.post(
 
-      "http://localhost:5000/api/auth/submit",
+      "https://margaveda.onrender.com/api/auth/submit",
 
       {
         message: feedback,

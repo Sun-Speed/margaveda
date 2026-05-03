@@ -36,7 +36,7 @@ export default function CoursesMap() {
 
     const fetchStreams = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/streams");
+        const res = await axios.get("https://margaveda.onrender.com/api/streams");
 
         const data = Array.isArray(res.data) ? res.data : res.data?.data || [];
         setStreams(data);
@@ -47,7 +47,7 @@ export default function CoursesMap() {
 
     const fetchCourses = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/courses");
+        const res = await axios.get("https://margaveda.onrender.com/api/courses");
 
         const data = Array.isArray(res.data) ? res.data : res.data?.data || [];
         setCourses(data);
@@ -58,7 +58,7 @@ export default function CoursesMap() {
 
     const fetchCareers = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/jobs");
+        const res = await axios.get("https://margaveda.onrender.com/api/jobs");
 
         const data = Array.isArray(res.data) ? res.data : res.data?.data || [];
         setCareers(data);
@@ -86,7 +86,7 @@ export default function CoursesMap() {
         // 🔥 no login
         if (!token) return;
 
-        const res = await axios.get("http://localhost:5000/api/auth/me", {
+        const res = await axios.get("https://margaveda.onrender.com/api/auth/me", {
           headers: {
             Authorization: `Bearer ${token}`,
           },
@@ -244,7 +244,7 @@ export default function CoursesMap() {
     try {
       const token = localStorage.getItem("token");
 
-      await axios.delete("http://localhost:5000/api/auth/remove-path", {
+      await axios.delete("https://margaveda.onrender.com/api/auth/remove-path", {
         headers: {
           Authorization: `Bearer ${token}`,
         },
