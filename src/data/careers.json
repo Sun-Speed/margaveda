@@ -1,0 +1,4741 @@
+[
+  {
+    "_id": "job_software_engineer",
+    "slug": "software-engineer",
+    "title": "Software Engineer",
+    "domain": "technology",
+    "category": "software_development",
+    "description": "Designs, develops, tests, and maintains scalable software systems and applications across web, mobile, cloud, and enterprise platforms.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "very_high",
+      "popularityScore": 98,
+      "futureScope": "excellent",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "8-35 LPA", "min": 8, "max": 35, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E / MCA",
+      "recommendedCourses": [ "science_11_12", "course_be_cse", "course_btech_it", "course_bca", "course_mca"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": [ "data_structures", "algorithms", "system_design", "cloud_computing", "api_design", "databases"],
+      "soft": ["problem_solving", "teamwork", "communication"]
+    },
+    "careerPath": {
+      "entryRoles": [ "junior_software_engineer", "software_engineer_intern", "associate_developer"],
+      "growthRoles": [ "senior_engineer", "staff_engineer", "tech_lead", "engineering_manager", "cto"]
+    },
+    "hiring": {
+      "entryMethods": [ "campus_placements", "off_campus", "internships", "hackathons"],
+      "topCompanies": [ "Google", "Microsoft", "Amazon", "PhonePe", "Infosys", "TCS"]
+    },
+    "industrySectors": [ "product_ba", "it_services", "fintech", "edtech", "saas"],
+    "tags": ["coding", "high_paying", "engineering", "technology", "software"],
+    "matching": {
+      "primaryCourses": ["course_be_cse", "course_btech_it"],
+      "secondaryCourses": ["course_bca", "course_mca"],
+      "relatedDomains": ["ai", "cybersecurity", "cloud", "data_science"]
+    },
+    "featured": true
+  },
+  {
+  "_id": "job_02",
+
+  "slug": "full-stack-developer",
+
+  "title": "Full Stack Developer",
+
+  "domain": "technology",
+
+  "category": "web_development",
+
+  "description": "Builds and manages both frontend and backend systems using modern web technologies. Handles APIs, databases, authentication systems, and interactive user interfaces.",
+
+  "overview": {
+    "difficultyLevel": "hard",
+    "demandTrend": "very_high",
+    "popularityScore": 99,
+    "futureScope": "excellent",
+    "workModes": [
+      "remote",
+      "hybrid"
+    ]
+  },
+
+  "salary": {
+    "average": "9-38 LPA",
+    "min": 9,
+    "max": 38,
+    "currency": "LPA"
+  },
+
+  "education": {
+    "minimumQualification": "B.Tech / BCA / MCA",
+
+    "recommendedCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "mca",
+      "bca",
+      "course_be_cse"
+    ],
+
+    "preferredLevels": [
+      "ug",
+      "pg"
+    ]
+  },
+
+  "skills": {
+    "technical": [
+      "react_nextjs",
+      "nodejs",
+      "mongodb_sql",
+      "api_integration",
+      "state_management"
+    ],
+
+    "soft": [
+      "problem_solving",
+      "teamwork",
+      "communication"
+    ]
+  },
+
+  "careerPath": {
+    "entryRoles": [
+      "junior_fullstack_developer",
+      "web_developer_intern",
+      "associate_developer"
+    ],
+
+    "growthRoles": [
+      "senior_developer",
+      "full_stack_architect",
+      "cto"
+    ]
+  },
+
+  "hiring": {
+    "entryMethods": [
+      "campus_placements",
+      "off_campus_drives",
+      "freelancing"
+    ],
+
+    "topCompanies": [
+      "Amazon",
+      "Zomato",
+      "Paytm",
+      "Flipkart",
+      "Accenture"
+    ]
+  },
+
+  "industrySectors": [
+    "it_services",
+    "product_tech",
+    "startups",
+    "ecommerce"
+  ],
+
+  "tags": [
+    "web_dev",
+    "versatility",
+    "high_demand",
+    "fullstack"
+  ],
+
+  "matching": {
+    "primaryCourses": [
+      "btech_cs_it",
+      "mca"
+    ],
+
+    "secondaryCourses": [
+      "bca"
+    ],
+
+    "relatedDomains": [
+      "backend",
+      "frontend",
+      "cloud",
+      "devops"
+    ]
+  },
+
+  "featured": true
+},
+{
+  "_id": "job_03",
+
+  "slug": "frontend-developer",
+
+  "title": "Frontend Developer",
+
+  "domain": "technology",
+
+  "category": "frontend_development",
+
+  "description": "Creates highly interactive, responsive, and visually appealing user interfaces for web applications using modern frontend frameworks and UI systems.",
+
+  "overview": {
+    "difficultyLevel": "medium",
+    "demandTrend": "high",
+    "popularityScore": 92,
+    "futureScope": "excellent",
+    "workModes": [
+      "remote",
+      "hybrid"
+    ]
+  },
+
+  "salary": {
+    "average": "5-30 LPA",
+    "min": 5,
+    "max": 30,
+    "currency": "LPA"
+  },
+
+  "education": {
+    "minimumQualification": "Graduate in any stream with Coding Certification",
+
+    "recommendedCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "bca",
+      "design_diploma"
+    ],
+
+    "preferredLevels": [
+      "ug"
+    ]
+  },
+
+  "skills": {
+    "technical": [
+      "html_css",
+      "javascript_typescript",
+      "react_vue",
+      "ui_ux_basics",
+      "tailwind_sass"
+    ],
+
+    "soft": [
+      "creativity",
+      "communication",
+      "problem_solving"
+    ]
+  },
+
+  "careerPath": {
+    "entryRoles": [
+      "frontend_intern",
+      "junior_frontend_developer",
+      "ui_developer"
+    ],
+
+    "growthRoles": [
+      "senior_frontend_engineer",
+      "frontend_architect",
+      "ui_ux_manager"
+    ]
+  },
+
+  "hiring": {
+    "entryMethods": [
+      "portfolio_hiring",
+      "internships",
+      "campus_placements"
+    ],
+
+    "topCompanies": [
+      "Adobe",
+      "Swiggy",
+      "Freshworks",
+      "TCS",
+      "Wipro"
+    ]
+  },
+
+  "industrySectors": [
+    "it_services",
+    "creative_agencies",
+    "product_tech"
+  ],
+
+  "tags": [
+    "ui",
+    "ux",
+    "web_design",
+    "frontend"
+  ],
+
+  "matching": {
+    "primaryCourses": [
+      "btech_cs_it",
+      "bca"
+    ],
+
+    "secondaryCourses": [
+      "design_diploma"
+    ],
+
+    "relatedDomains": [
+      "ui_ux",
+      "web_design",
+      "frontend_engineering"
+    ]
+  },
+
+  "featured": false
+},
+
+  {
+    "_id": "job_02",
+    "slug": "full-stack-developer",
+    "name": "Full Stack Developer",
+    "domain": "tech",
+    "description": "Handles both client-side and server-side development. Proficient in managing databases, building APIs, and creating interactive UIs using a unified tech stack.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mca", "bca"],
+    "requiredSkills": [
+      "react_nextjs",
+      "nodejs",
+      "mongodb_sql",
+      "api_integration",
+      "state_management"
+    ],
+    "avgSalary": "9-38 LPA",
+    "salaryRange": { "min": 9, "max": 38, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 99,
+    "sector": ["it_services", "product_tech", "startups", "ecommerce"],
+    "tags": ["web_dev", "versatility", "high_demand", "fullstack"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA / MCA",
+    "growth": ["senior_developer", "full_stack_architect", "cto"],
+    "entryType": ["campus_placements", "off_campus_drives", "freelancing"],
+    "companies": ["Amazon", "Zomato", "Paytm", "Flipkart", "Accenture"],
+    "featured": true
+  },
+  {
+    "_id": "job_03",
+    "slug": "frontend-developer",
+    "name": "Frontend Developer",
+    "domain": "tech",
+    "description": "Specializes in creating the visual and interactive parts of a website. Ensures high performance, responsiveness, and seamless user experiences across devices.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "bca",
+      "design_diploma"
+    ],
+    "requiredSkills": [
+      "html_css",
+      "javascript_typescript",
+      "react_vue",
+      "ui_ux_basics",
+      "tailwind_sass"
+    ],
+    "avgSalary": "5-30 LPA",
+    "salaryRange": { "min": 5, "max": 30, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 92,
+    "sector": ["it_services", "creative_agencies", "product_tech"],
+    "tags": ["ui", "ux", "web_design", "frontend"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "Graduate in any stream with Coding Certification",
+    "growth": [
+      "senior_frontend_engineer",
+      "frontend_architect",
+      "ui_ux_manager"
+    ],
+    "entryType": ["portfolio_hiring", "internships", "campus_placements"],
+    "companies": ["Adobe", "Swiggy", "Freshworks", "TCS", "Wipro"],
+    "featured": false
+  },
+  {
+    "_id": "job_04",
+    "slug": "backend-developer",
+    "name": "Backend Developer",
+    "domain": "tech",
+    "description": "Focuses on server-side logic, database management, and API architecture. Ensures the system is secure, scalable, and fast behind the scenes.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mca"],
+    "requiredSkills": [
+      "python_go_java",
+      "sql_nosql",
+      "system_design",
+      "microservices",
+      "docker_k8s"
+    ],
+    "avgSalary": "8-45 LPA",
+    "salaryRange": { "min": 8, "max": 45, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 94,
+    "sector": ["fintech", "saas", "banking", "big_data"],
+    "tags": ["server_side", "scalability", "architecture", "backend"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech / B.E. / MCA",
+    "growth": ["senior_backend_engineer", "system_architect", "vp_engineering"],
+    "entryType": ["campus_placements", "competitive_programming"],
+    "companies": ["Goldman Sachs", "Morgan Stanley", "Uber", "Oracle", "Cisco"],
+    "featured": true
+  },
+  {
+    "_id": "job_05",
+    "slug": "web-developer",
+    "name": "Web Developer",
+    "domain": "tech",
+    "description": "Builds and maintains websites using CMS or custom code. Often a generalist role handling everything from hosting to basic design updates.",
+    "requiredCourses": ["any_stream_12", "bca", "web_dev_bootcamp"],
+    "requiredSkills": [
+      "wordpress_shopify",
+      "php",
+      "javascript",
+      "seo_basics",
+      "web_hosting"
+    ],
+    "avgSalary": "4-18 LPA",
+    "salaryRange": { "min": 4, "max": 18, "currency": "LPA" },
+    "demandTrend": "Medium",
+    "popularityScore": 85,
+    "sector": ["smb", "marketing", "e-commerce"],
+    "tags": ["web_creation", "freelance_friendly", "cms"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "easy",
+    "workType": ["remote", "contract"],
+    "minQualification": "Diploma or Degree in any field",
+    "growth": ["lead_web_developer", "web_agency_owner"],
+    "entryType": ["freelancing", "small_scale_agencies"],
+    "companies": [
+      "Publicis Sapient",
+      "Dentsu",
+      "Local Agencies",
+      "Freelance Portals"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_06",
+    "slug": "mobile-app-developer",
+    "name": "Mobile App Developer",
+    "domain": "tech",
+    "description": "Develops applications specifically for smartphones and tablets, focusing on mobile-first user interfaces and hardware integration.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "bca"],
+    "requiredSkills": [
+      "flutter_react_native",
+      "swift_kotlin",
+      "mobile_ui_ux",
+      "firebase",
+      "api_handling"
+    ],
+    "avgSalary": "7-35 LPA",
+    "salaryRange": { "min": 7, "max": 35, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 90,
+    "sector": ["consumer_apps", "gaming", "fintech"],
+    "tags": ["mobile", "android", "ios", "app_dev"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["hybrid", "remote"],
+    "minQualification": "B.Tech / BCA",
+    "growth": [
+      "senior_mobile_developer",
+      "mobile_architect",
+      "product_manager"
+    ],
+    "entryType": ["app_portfolio", "campus_placements"],
+    "companies": ["Meta", "Jio", "Cred", "Ola", "Samsung India"],
+    "featured": true
+  },
+  {
+    "_id": "job_07",
+    "slug": "game-developer",
+    "name": "Game Developer",
+    "domain": "tech",
+    "description": "Combines creative design with coding to build interactive video games. Involves physics engines, 3D modeling, and real-time rendering.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "game_design_degree"],
+    "requiredSkills": [
+      "unity_unreal_engine",
+      "c_sharp_cpp",
+      "mathematics_physics",
+      "3d_graphics",
+      "ai_for_games"
+    ],
+    "avgSalary": "6-40 LPA",
+    "salaryRange": { "min": 6, "max": 40, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 88,
+    "sector": ["gaming_studios", "edtech", "vr_ar"],
+    "tags": ["gaming", "creative_coding", "metaverse"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "B.Tech / Specialization in Game Dev",
+    "growth": ["senior_game_dev", "game_director", "studio_head"],
+    "entryType": ["game_jams", "indie_dev", "specialized_hiring"],
+    "companies": [
+      "Ubisoft India",
+      "Rockstar Games",
+      "Dream11",
+      "Nazara Technologies"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_08",
+    "slug": "embedded-systems-engineer",
+    "name": "Embedded Systems Engineer",
+    "domain": "tech",
+    "description": "Integrates software with hardware. Works on specialized systems like medical devices, automotive controllers, and IoT hardware.",
+    "requiredCourses": ["science_11_12", "btech_ece_eee", "mtech_embedded"],
+    "requiredSkills": [
+      "embedded_c",
+      "rtos",
+      "microcontrollers",
+      "pcb_design",
+      "iot_protocols"
+    ],
+    "avgSalary": "6-35 LPA",
+    "salaryRange": { "min": 6, "max": 35, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 82,
+    "sector": ["automotive", "healthcare", "consumer_electronics", "robotics"],
+    "tags": ["hardware_software", "iot", "robotics", "core_engineering"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech (ECE / EEE / Instrumentation)",
+    "growth": ["senior_embedded_engineer", "hardware_architect", "rd_head"],
+    "entryType": ["campus_placements", "core_tech_drives"],
+    "companies": [
+      "Qualcomm",
+      "Texas Instruments",
+      "Bosch",
+      "Intel India",
+      "Tata Motors"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_09",
+    "slug": "firmware-engineer",
+    "name": "Firmware Engineer",
+    "domain": "tech",
+    "description": "Writes low-level code that directly controls hardware. Essential for device drivers, bootloaders, and hardware-specific optimizations.",
+    "requiredCourses": ["science_11_12", "btech_ece_cs", "mtech_vlsi"],
+    "requiredSkills": [
+      "c_cpp",
+      "assembly_language",
+      "device_drivers",
+      "debugging_hardware",
+      "linux_kernel"
+    ],
+    "avgSalary": "7-42 LPA",
+    "salaryRange": { "min": 7, "max": 42, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 80,
+    "sector": ["semiconductors", "networking", "defense"],
+    "tags": ["low_level", "hardware_optimization", "firmware"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "B.Tech / M.Tech in ECE / CSE",
+    "growth": ["principal_firmware_engineer", "systems_architect"],
+    "entryType": ["psu_exams", "semiconductor_hiring_drives"],
+    "companies": [
+      "HP India",
+      "Western Digital",
+      "Samsung R&D",
+      "Nvidia",
+      "Cisco"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_10",
+    "slug": "devops-engineer",
+    "name": "DevOps Engineer",
+    "domain": "tech",
+    "description": "Bridges the gap between development and operations by automating software delivery pipelines and managing infrastructure. Focuses on CI/CD, automation, and system reliability.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mca"],
+    "requiredSkills": [
+      "docker_kubernetes",
+      "jenkins_github_actions",
+      "terraform_ansible",
+      "linux_administration",
+      "aws_azure_gcp"
+    ],
+    "avgSalary": "8-45 LPA",
+    "salaryRange": { "min": 8, "max": 45, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 96,
+    "sector": ["saas", "fintech", "it_services", "product_tech"],
+    "tags": ["automation", "infra_as_code", "cloud_native", "devops"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / B.E. / MCA",
+    "growth": [
+      "senior_devops_engineer",
+      "platform_engineer",
+      "devops_architect",
+      "cto"
+    ],
+    "entryType": [
+      "campus_placements",
+      "internal_transition",
+      "cert_based_hiring"
+    ],
+    "companies": [
+      "Amazon",
+      "Walmart Global Tech",
+      "Razorpay",
+      "Accenture",
+      "Microsoft"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_11",
+    "slug": "cloud-engineer",
+    "name": "Cloud Engineer",
+    "domain": "tech",
+    "description": "Responsible for designing, implementing, and managing cloud-based infrastructure. Optimizes cloud resources for cost, performance, and scalability.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "bca"],
+    "requiredSkills": [
+      "aws_azure_gcp",
+      "cloud_security",
+      "serverless_computing",
+      "networking_basics",
+      "python_bash"
+    ],
+    "avgSalary": "7-35 LPA",
+    "salaryRange": { "min": 7, "max": 35, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 94,
+    "sector": ["it_consulting", "e_commerce", "banking"],
+    "tags": ["cloud", "infrastructure", "digital_transformation", "aws"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA / MCA",
+    "growth": [
+      "senior_cloud_engineer",
+      "cloud_architect",
+      "infrastructure_manager"
+    ],
+    "entryType": ["campus_placements", "cloud_certifications", "off_campus"],
+    "companies": ["Wipro", "TCS", "HCLTech", "Cognizant", "Google Cloud India"],
+    "featured": true
+  },
+  {
+    "_id": "job_12",
+    "slug": "site-reliability-engineer",
+    "name": "Site Reliability Engineer (SRE)",
+    "domain": "tech",
+    "description": "Applies software engineering mindsets to system administration. Focuses on availability, latency, performance, and capacity of production services.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mtech"],
+    "requiredSkills": [
+      "go_python",
+      "distributed_systems",
+      "monitoring_prometheus_grafana",
+      "incident_management",
+      "kubernetes"
+    ],
+    "avgSalary": "12-65 LPA",
+    "salaryRange": { "min": 12, "max": 65, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 89,
+    "sector": ["big_tech", "high_frequency_trading", "fintech"],
+    "tags": ["reliability", "scalability", "incident_response", "sre"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "very_hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech in CS/IT (with high problem-solving skills)",
+    "growth": ["senior_sre", "principal_sre", "vp_infrastructure"],
+    "entryType": ["lateral_entry_from_dev", "specialized_campus_hiring"],
+    "companies": ["Google", "LinkedIn", "Uber", "Zomato", "Stripe"],
+    "featured": true
+  },
+  {
+    "_id": "job_13",
+    "slug": "system-administrator",
+    "name": "System Administrator",
+    "domain": "tech",
+    "description": "Maintains, configures, and ensures the reliable operation of computer systems and servers. Handles user accounts, permissions, and internal hardware updates.",
+    "requiredCourses": ["any_stream_12", "bca", "bsc_cs", "diploma_hardware"],
+    "requiredSkills": [
+      "linux_unix",
+      "active_directory",
+      "virtualization_vmware",
+      "shell_scripting",
+      "backup_recovery"
+    ],
+    "avgSalary": "4-15 LPA",
+    "salaryRange": { "min": 4, "max": 15, "currency": "LPA" },
+    "demandTrend": "Stable",
+    "popularityScore": 75,
+    "sector": ["education", "manufacturing", "government", "it_services"],
+    "tags": ["maintenance", "it_support", "linux", "sysadmin"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["onsite"],
+    "minQualification": "Diploma or Graduate in any field",
+    "growth": ["it_manager", "cloud_administrator", "it_director"],
+    "entryType": ["walk_in_interviews", "it_helpdesk_transition"],
+    "companies": [
+      "Reliance Industries",
+      "State Bank of India",
+      "Infosys",
+      "Mindtree"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_14",
+    "slug": "network-engineer",
+    "name": "Network Engineer",
+    "domain": "tech",
+    "description": "Sets up, develops, and maintains computer networks within an organization. Focuses on switches, routers, and secure data transit protocols.",
+    "requiredCourses": ["science_11_12", "btech_ece_cs", "bsc_cs"],
+    "requiredSkills": [
+      "tcp_ip",
+      "routing_switching",
+      "firewall_management",
+      "sdn_software_defined_networking",
+      "cisco_ccna_ccnp"
+    ],
+    "avgSalary": "5-22 LPA",
+    "salaryRange": { "min": 5, "max": 22, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 82,
+    "sector": ["telecom", "isp", "data_centers"],
+    "tags": ["networking", "cisco", "telecom", "connectivity"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "B.Tech (ECE/CSE) or BCA with CCNA certification",
+    "growth": [
+      "senior_network_engineer",
+      "network_architect",
+      "network_manager"
+    ],
+    "entryType": ["specialized_networking_drives", "isp_recruitment"],
+    "companies": [
+      "Airtel",
+      "Jio",
+      "Cisco Systems",
+      "Nokia",
+      "Tata Communications"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_15",
+    "slug": "cybersecurity-analyst",
+    "name": "Cybersecurity Analyst",
+    "domain": "cybersecurity",
+    "description": "Protects an organization's network and data from cyber attacks. Monitors systems for security breaches and implements defense strategies.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "mca",
+      "cybersec_diploma"
+    ],
+    "requiredSkills": [
+      "penetration_testing",
+      "siem_tools",
+      "vulnerability_assessment",
+      "cryptography",
+      "incident_forensics"
+    ],
+    "avgSalary": "6-32 LPA",
+    "salaryRange": { "min": 6, "max": 32, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 93,
+    "sector": ["banking_finance", "defense", "e_commerce", "it_security"],
+    "tags": ["security", "ethical_hacking", "compliance", "cybersec"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech / BCA with CEH or Security+ Certification",
+    "growth": ["ethical_hacker", "security_architect", "ciso"],
+    "entryType": [
+      "security_hackathons",
+      "cert_based_hiring",
+      "specialized_consultancy"
+    ],
+    "companies": [
+      "KPMG",
+      "PwC",
+      "CrowdStrike",
+      "Check Point Software",
+      "HDFC Bank"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_16",
+    "slug": "ethical-hacker",
+    "name": "Ethical Hacker",
+    "domain": "cybersecurity",
+    "description": "Legally breaks into systems to identify vulnerabilities before malicious hackers can exploit them. Focuses on offensive security, bug bounties, and infrastructure hardening.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "certified_ethical_hacker_ceh"
+    ],
+    "requiredSkills": [
+      "metasploit",
+      "wireshark",
+      "nmap",
+      "web_application_security",
+      "social_engineering"
+    ],
+    "avgSalary": "7-35 LPA",
+    "salaryRange": { "min": 7, "max": 35, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 96,
+    "sector": ["cybersecurity_firms", "government_defense", "fintech"],
+    "tags": ["offensive_security", "vulnerability", "hacking", "bug_bounty"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA with CEH or OSCP Certification",
+    "growth": ["senior_security_consultant", "security_researcher", "ciso"],
+    "entryType": [
+      "bug_bounty_portfolios",
+      "security_ctfs",
+      "specialized_hiring"
+    ],
+    "companies": ["Synopsys", "Paladin", "FireEye", "Quick Heal", "Reliance"],
+    "featured": true
+  },
+  {
+    "_id": "job_17",
+    "slug": "security-engineer",
+    "name": "Security Engineer",
+    "domain": "cybersecurity",
+    "description": "Builds and maintains the security infrastructure of an organization. Focuses on developing automated security tools, firewalls, and secure coding practices.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "mtech_information_security"
+    ],
+    "requiredSkills": [
+      "secure_sdlc",
+      "iam_identity_access_management",
+      "cloud_security_aws_azure",
+      "encryption_protocols",
+      "python_automation"
+    ],
+    "avgSalary": "10-48 LPA",
+    "salaryRange": { "min": 10, "max": 48, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 91,
+    "sector": ["it_services", "saas", "banking"],
+    "tags": ["defensive_security", "architecture", "automation", "compliance"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech / B.E. in CS/IT",
+    "growth": ["security_architect", "vp_security", "ciso"],
+    "entryType": ["campus_placements", "lateral_move_from_dev"],
+    "companies": [
+      "Microsoft",
+      "Oracle",
+      "Cisco",
+      "IBM India",
+      "Standard Chartered"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_18",
+    "slug": "penetration-tester",
+    "name": "Penetration Tester",
+    "domain": "cybersecurity",
+    "description": "Conducts deep-dive simulated attacks on networks, APIs, and applications. Provides detailed reports on how to patch security gaps to comply with regulatory standards.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "oscp_certification"],
+    "requiredSkills": [
+      "burp_suite",
+      "sql_injection",
+      "cross_site_scripting_xss",
+      "api_penetration_testing",
+      "report_writing"
+    ],
+    "avgSalary": "6-30 LPA",
+    "salaryRange": { "min": 6, "max": 30, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 88,
+    "sector": ["consulting", "it_audit", "product_tech"],
+    "tags": ["pentesting", "red_teaming", "security_audit", "vapt"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA + OSCP/CompTIA PenTest+",
+    "growth": ["lead_pentester", "red_team_lead", "security_consultant"],
+    "entryType": ["consultancy_hiring", "specialized_vapt_firms"],
+    "companies": ["PwC", "EY", "Deloitte", "Crowe", "Secuna"],
+    "featured": false
+  },
+  {
+    "_id": "job_19",
+    "slug": "information-security-analyst",
+    "name": "Information Security Analyst",
+    "domain": "cybersecurity",
+    "description": "Monitors security logs, investigates incidents, and ensures the organization follows data privacy laws. Acts as the first line of defense in a Security Operations Center (SOC).",
+    "requiredCourses": ["any_stream_12", "bca", "bsc_it", "cissp_training"],
+    "requiredSkills": [
+      "siem_log_analysis",
+      "incident_response",
+      "iso_27001_compliance",
+      "threat_intelligence",
+      "pci_dss"
+    ],
+    "avgSalary": "5-22 LPA",
+    "salaryRange": { "min": 5, "max": 22, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 85,
+    "sector": ["banking", "healthcare", "government", "it_services"],
+    "tags": ["compliance", "monitoring", "data_privacy", "soc"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "Graduate in IT/CS or related field",
+    "growth": ["soc_manager", "compliance_officer", "risk_manager"],
+    "entryType": ["soc_hiring_drives", "it_helpdesk_transition"],
+    "companies": ["TCS", "Infosys", "Wipro", "HCLTech", "Cognizant"],
+    "featured": false
+  },
+  {
+    "_id": "job_20",
+    "slug": "data-scientist",
+    "name": "Data Scientist",
+    "domain": "data_ai",
+    "description": "Extracts actionable insights from large datasets using statistical modeling, machine learning, and data visualization. Solves complex business problems using predictive analytics.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "bsc_statistics",
+      "mtech_ai_ds"
+    ],
+    "requiredSkills": [
+      "python_r",
+      "machine_learning",
+      "statistics_probability",
+      "sql_big_query",
+      "tableau_powerbi"
+    ],
+    "avgSalary": "12-60 LPA",
+    "salaryRange": { "min": 12, "max": 60, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 98,
+    "sector": ["analytics_consulting", "product_tech", "ecommerce", "fintech"],
+    "tags": ["big_data", "analytics", "machine_learning", "data_science"],
+    "educationLevel": ["ug", "pg", "phd"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "very_hard",
+    "workType": ["hybrid", "remote"],
+    "minQualification": "B.Tech / M.Sc Statistics / M.Tech DS",
+    "growth": [
+      "senior_data_scientist",
+      "principal_data_scientist",
+      "chief_data_officer"
+    ],
+    "entryType": [
+      "campus_placements",
+      "kaggle_portfolios",
+      "analytics_hiring_tests"
+    ],
+    "companies": [
+      "Fractal Analytics",
+      "Mu Sigma",
+      "Amazon",
+      "Flipkart",
+      "American Express"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_21",
+    "slug": "data-analyst",
+    "name": "Data Analyst",
+    "domain": "data_ai",
+    "description": "Translates numbers into plain English to help organizations make better business decisions. Uses statistical tools to interpret data sets and identify trends.",
+    "requiredCourses": [
+      "any_stream_12",
+      "bca",
+      "bsc_statistics",
+      "bcom_computers"
+    ],
+    "requiredSkills": [
+      "sql",
+      "excel_advanced",
+      "power_bi_tableau",
+      "python_r_basics",
+      "data_cleaning"
+    ],
+    "avgSalary": "5-18 LPA",
+    "salaryRange": { "min": 5, "max": 18, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 92,
+    "sector": ["marketing", "retail", "finance", "it_services"],
+    "tags": ["reporting", "insights", "business_intelligence", "data_viz"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "Graduate in any field with strong analytical skills",
+    "growth": ["senior_data_analyst", "analytics_manager", "bi_director"],
+    "entryType": [
+      "campus_placements",
+      "off_campus_drives",
+      "internal_transition"
+    ],
+    "companies": ["Mu Sigma", "Accenture", "TCS", "Amazon", "Dell"],
+    "featured": false
+  },
+  {
+    "_id": "job_22",
+    "slug": "machine-learning-engineer",
+    "name": "Machine Learning Engineer",
+    "domain": "data_ai",
+    "description": "Designs and builds self-running software to automate predictive models. Sits at the intersection of software engineering and data science.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mtech_ai_ml"],
+    "requiredSkills": [
+      "scikit_learn",
+      "tensorflow_pytorch",
+      "mlops",
+      "python",
+      "neural_networks"
+    ],
+    "avgSalary": "12-55 LPA",
+    "salaryRange": { "min": 12, "max": 55, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 97,
+    "sector": ["product_tech", "automotive_self_driving", "healthcare"],
+    "tags": ["machine_learning", "predictive_modeling", "mlops", "automation"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech in CS/IT or M.Tech in ML",
+    "growth": ["senior_ml_engineer", "ml_architect", "head_of_ai"],
+    "entryType": ["lateral_move_from_dev", "specialized_campus_hiring"],
+    "companies": ["Swiggy", "Zomato", "Tesla India", "Apple", "Nvidia"],
+    "featured": true
+  },
+  {
+    "_id": "job_23",
+    "slug": "ai-engineer",
+    "name": "AI Engineer",
+    "domain": "data_ai",
+    "description": "Develops intelligent algorithms capable of learning and making decisions. Focuses heavily on integrating AI models into functional user applications.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "pg_diploma_ai"],
+    "requiredSkills": [
+      "generative_ai_llms",
+      "prompt_engineering",
+      "python",
+      "cloud_ai_services",
+      "api_development"
+    ],
+    "avgSalary": "10-50 LPA",
+    "salaryRange": { "min": 10, "max": 50, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 99,
+    "sector": ["software_product", "saas", "gaming"],
+    "tags": ["generative_ai", "llm", "neural_networks", "future_tech"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / MCA with AI Specialization",
+    "growth": ["ai_architect", "chief_ai_officer", "research_scientist"],
+    "entryType": ["hackathons", "internships", "portfolio_hiring"],
+    "companies": [
+      "OpenAI Partners",
+      "Microsoft",
+      "Google India",
+      "Infosys Helix",
+      "Tech Mahindra"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_24",
+    "slug": "data-engineer",
+    "name": "Data Engineer",
+    "domain": "data_ai",
+    "description": "The 'plumber' of the data world. Builds the infrastructure and pipelines that allow data scientists and analysts to access clean, reliable data.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mtech"],
+    "requiredSkills": [
+      "apache_spark",
+      "hadoop",
+      "sql",
+      "etl_pipelines",
+      "cloud_data_warehousing"
+    ],
+    "avgSalary": "8-45 LPA",
+    "salaryRange": { "min": 8, "max": 45, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 90,
+    "sector": ["big_data", "banking", "e_commerce"],
+    "tags": ["data_pipelines", "big_data", "etl", "infrastructure"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech / B.E. in CS or IT",
+    "growth": ["senior_data_engineer", "data_architect", "director_of_data"],
+    "entryType": ["campus_placements", "off_campus_drives"],
+    "companies": [
+      "Walmart Global Tech",
+      "Flipkart",
+      "Capgemini",
+      "JPMorgan Chase"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_25",
+    "slug": "bi-analyst",
+    "name": "Business Intelligence (BI) Analyst",
+    "domain": "data_ai",
+    "description": "Bridges the gap between data and business strategy. Creates high-level dashboards and reports that executive leadership uses to monitor company health.",
+    "requiredCourses": ["bcom_computers", "bca", "mba_analytics"],
+    "requiredSkills": [
+      "tableau_power_bi",
+      "sql",
+      "business_strategy",
+      "data_storytelling",
+      "advanced_excel"
+    ],
+    "avgSalary": "6-25 LPA",
+    "salaryRange": { "min": 6, "max": 25, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 86,
+    "sector": ["consulting", "retail", "manufacturing"],
+    "tags": ["strategy", "dashboards", "business_growth", "bi"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "Graduate with Data Viz certification or MBA",
+    "growth": ["senior_bi_analyst", "bi_manager", "vp_of_analytics"],
+    "entryType": ["campus_placements", "internal_lateral_move"],
+    "companies": ["Deloitte", "EY", "PwC", "Reliance Industries", "Flipkart"],
+    "featured": false
+  },
+  {
+    "_id": "job_26",
+    "slug": "nlp-engineer",
+    "name": "NLP Engineer",
+    "domain": "data_ai",
+    "description": "Specializes in teaching machines to understand, interpret, and generate human language. Critical for chatbots, translation, and sentiment analysis.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "mtech_computational_linguistics"
+    ],
+    "requiredSkills": [
+      "bert_gpt_models",
+      "tokenization",
+      "sentiment_analysis",
+      "python_nltk_spacy",
+      "deep_learning"
+    ],
+    "avgSalary": "12-65 LPA",
+    "salaryRange": { "min": 12, "max": 65, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 95,
+    "sector": ["it_services", "customer_tech", "media_publishing"],
+    "tags": ["language_processing", "chatbots", "text_analytics", "ai"],
+    "educationLevel": ["ug", "pg", "phd"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "very_hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / M.Tech / PhD in AI/ML",
+    "growth": ["senior_nlp_researcher", "ai_lead", "chief_scientist"],
+    "entryType": ["research_fellowships", "specialized_ai_hiring"],
+    "companies": ["Google", "Meta", "InMobi", "Samsung R&D", "Haptik"],
+    "featured": true
+  },
+  {
+    "_id": "job_27",
+    "slug": "computer-vision-engineer",
+    "name": "Computer Vision Engineer",
+    "domain": "data_ai",
+    "description": "Develops algorithms that allow computers to 'see' and interpret visual data from the real world. Focuses on object detection, image segmentation, and real-time video processing.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mtech_ai_cv"],
+    "requiredSkills": [
+      "opencv",
+      "pytorch_tensorflow",
+      "yolo_segmentation",
+      "cnn_transformers",
+      "cuda_optimization"
+    ],
+    "avgSalary": "12-42 LPA",
+    "salaryRange": { "min": 12, "max": 42, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 94,
+    "sector": [
+      "automotive_autonomous",
+      "healthcare_imaging",
+      "surveillance",
+      "retail_tech"
+    ],
+    "tags": ["image_processing", "deep_learning", "ai", "vision"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech / M.Tech with CV/ML Specialization",
+    "growth": ["senior_cv_engineer", "vision_architect", "head_of_perception"],
+    "entryType": ["specialized_ai_hiring", "portfolio_projects"],
+    "companies": [
+      "Tesla India",
+      "Samsung R&D",
+      "Stryker",
+      "Amazon",
+      "Netradyne"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_28",
+    "slug": "research-scientist-ai-cs",
+    "name": "Research Scientist (AI/CS)",
+    "domain": "data_ai",
+    "description": "Pushes the boundaries of what is possible in computer science. Conducts experiments and publishes papers on novel AI architectures, algorithms, and theoretical models.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "phd_cs_ai"],
+    "requiredSkills": [
+      "advanced_mathematics",
+      "research_methodology",
+      "python_r",
+      "deep_learning_theory",
+      "academic_writing"
+    ],
+    "avgSalary": "18-65 LPA",
+    "salaryRange": { "min": 18, "max": 65, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 88,
+    "sector": ["big_tech_labs", "academia", "defense_research"],
+    "tags": ["innovation", "academia", "advanced_ai", "r_and_d"],
+    "educationLevel": ["pg", "phd"],
+    "level": ["senior", "expert"],
+    "difficultyLevel": "very_hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "M.Tech / PhD in Computer Science",
+    "growth": ["principal_scientist", "director_of_research", "fellow"],
+    "entryType": ["research_fellowships", "publication_based_hiring"],
+    "companies": [
+      "Google Research",
+      "Microsoft Research",
+      "IBM Research",
+      "TCS Research",
+      "IISc Labs"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_29",
+    "slug": "robotics-engineer",
+    "name": "Robotics Engineer",
+    "domain": "emerging_tech",
+    "description": "Designs, builds, and maintains robots and robotic systems. Works at the intersection of mechanical engineering, electronics, and software for automation.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_robotics_mechatronics",
+      "mtech_robotics"
+    ],
+    "requiredSkills": [
+      "ros_robot_operating_system",
+      "c_cpp",
+      "motion_planning",
+      "embedded_systems",
+      "3d_modeling"
+    ],
+    "avgSalary": "8-32 LPA",
+    "salaryRange": { "min": 8, "max": 32, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 85,
+    "sector": ["manufacturing", "logistics", "aerospace", "healthcare"],
+    "tags": ["hardware", "automation", "mechatronics", "robotics"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech in Robotics / Mechatronics / ECE",
+    "growth": [
+      "senior_robotics_engineer",
+      "robotics_architect",
+      "operations_head"
+    ],
+    "entryType": ["campus_placements", "core_industrial_hiring"],
+    "companies": [
+      "GreyOrange",
+      "Tata Motors",
+      "Reliance Robotics",
+      "ABB India",
+      "Boston Dynamics Partners"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_30",
+    "slug": "automation-engineer",
+    "name": "Automation Engineer",
+    "domain": "core_engineering",
+    "description": "Focuses on creating automated testing and deployment systems to ensure software quality and industrial efficiency. Eliminates manual, repetitive tasks through code.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "bca"],
+    "requiredSkills": [
+      "selenium_playwright",
+      "java_python",
+      "jenkins",
+      "api_testing",
+      "rpa_tools"
+    ],
+    "avgSalary": "6-28 LPA",
+    "salaryRange": { "min": 6, "max": 28, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 91,
+    "sector": ["it_services", "quality_assurance", "banking"],
+    "tags": ["qa", "efficiency", "software_testing", "rpa"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA",
+    "growth": ["test_architect", "qa_manager", "head_of_automation"],
+    "entryType": ["campus_placements", "it_recruitment_drives"],
+    "companies": ["Cognizant", "TCS", "Accenture", "Infosys", "Wipro"],
+    "featured": false
+  },
+  {
+    "_id": "job_31",
+    "slug": "ar-vr-developer",
+    "name": "AR/VR Developer",
+    "domain": "emerging_tech",
+    "description": "Creates immersive experiences for Augmented and Virtual Reality platforms. Develops everything from interactive gaming to industrial training simulations.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "degree_in_game_design"
+    ],
+    "requiredSkills": [
+      "unity_unreal_engine",
+      "c_sharp_cpp",
+      "arcore_arkit",
+      "3d_asset_integration",
+      "spatial_computing"
+    ],
+    "avgSalary": "7-35 LPA",
+    "salaryRange": { "min": 7, "max": 35, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 89,
+    "sector": ["gaming", "edtech", "real_estate", "metaverse_platforms"],
+    "tags": ["immersive", "metaverse", "ar", "vr"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA with Unity/Unreal Certification",
+    "growth": ["senior_xr_developer", "xr_architect", "creative_technologist"],
+    "entryType": ["indie_portfolio", "specialized_tech_hiring"],
+    "companies": [
+      "Meta India",
+      "Jio Tesseract",
+      "Byju's",
+      "Mercedes-Benz India",
+      "Accenture XR Lab"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_32",
+    "slug": "quantum-computing-researcher",
+    "name": "Quantum Computing Researcher",
+    "domain": "emerging_tech",
+    "description": "Explores the application of quantum mechanics to solve problems that are impossible for classical computers. Focuses on quantum algorithms and cryptography.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_physics",
+      "phd_quantum_physics"
+    ],
+    "requiredSkills": [
+      "qiskit_cirq",
+      "linear_algebra",
+      "quantum_algorithms",
+      "python",
+      "quantum_mechanics"
+    ],
+    "avgSalary": "15-55 LPA",
+    "salaryRange": { "min": 15, "max": 55, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 82,
+    "sector": ["research_labs", "finance_cryptography", "semiconductors"],
+    "tags": ["quantum", "future_tech", "cryptography", "research"],
+    "educationLevel": ["pg", "phd"],
+    "level": ["senior", "expert"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "M.Tech / PhD in CS or Physics",
+    "growth": [
+      "senior_quantum_scientist",
+      "quantum_solutions_architect",
+      "chief_scientist"
+    ],
+    "entryType": ["research_internships", "academic_collaboration"],
+    "companies": [
+      "IBM Research India",
+      "TCS Quantum Lab",
+      "IISc",
+      "Qulabs",
+      "Microsoft Quantum"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_33",
+    "slug": "mechanical-engineer",
+    "name": "Mechanical Engineer",
+    "domain": "core_engineering",
+    "description": "Designs, analyzes, and manufactures mechanical systems and devices. Focuses on energy systems, manufacturing processes, and structural integrity using CAD/CAM and Digital Twin technologies.",
+    "requiredCourses": ["science_11_12", "btech_mechanical", "be_mechanical"],
+    "requiredSkills": [
+      "solidworks_autocad",
+      "thermodynamics",
+      "ansys_simulation",
+      "manufacturing_processes",
+      "digital_twins"
+    ],
+    "avgSalary": "4-15 LPA",
+    "salaryRange": { "min": 4, "max": 15, "currency": "LPA" },
+    "demandTrend": "Stable",
+    "popularityScore": 88,
+    "sector": ["automotive", "manufacturing", "oil_and_gas", "energy"],
+    "tags": ["core_engineering", "manufacturing", "cad", "heavy_industries"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech / B.E. in Mechanical Engineering",
+    "growth": [
+      "senior_mechanical_engineer",
+      "project_manager",
+      "operations_head",
+      "plant_manager"
+    ],
+    "entryType": ["campus_placements", "gate_for_psu", "off_campus"],
+    "companies": [
+      "Tata Motors",
+      "Larsen & Toubro",
+      "Mahindra & Mahindra",
+      "BHEL",
+      "Reliance Industries"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_34",
+    "slug": "civil-engineer",
+    "name": "Civil Engineer",
+    "domain": "core_engineering",
+    "description": "Oversees the design and construction of infrastructure projects like bridges, roads, and buildings. Focuses on structural safety, sustainability, and smart city integration.",
+    "requiredCourses": ["science_11_12", "btech_civil", "be_civil"],
+    "requiredSkills": [
+      "autocad_civil_3d",
+      "structural_analysis",
+      "bim_building_info_modeling",
+      "project_management",
+      "geotechnical_eng"
+    ],
+    "avgSalary": "4.5-12 LPA",
+    "salaryRange": { "min": 4.5, "max": 12, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 86,
+    "sector": ["construction", "real_estate", "infrastructure", "smart_cities"],
+    "tags": ["infrastructure", "construction", "bim", "urban_planning"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech / B.E. in Civil Engineering",
+    "growth": [
+      "structural_engineer",
+      "project_manager",
+      "chief_engineer",
+      "infrastructure_consultant"
+    ],
+    "entryType": ["campus_placements", "ssc_je_exams", "government_contracts"],
+    "companies": [
+      "L&T Construction",
+      "Tata Projects",
+      "Shapoorji Pallonji",
+      "Adani Infra",
+      "GMR Group"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_35",
+    "slug": "electrical-engineer",
+    "name": "Electrical Engineer",
+    "domain": "core_engineering",
+    "description": "Designs and develops electrical systems including power generation, transmission, and distribution. Focuses on renewable energy integration and smart grid technologies.",
+    "requiredCourses": ["science_11_12", "btech_electrical", "be_eee"],
+    "requiredSkills": [
+      "power_systems",
+      "control_systems",
+      "matlab",
+      "renewable_energy_tech",
+      "circuit_design"
+    ],
+    "avgSalary": "5-18 LPA",
+    "salaryRange": { "min": 5, "max": 18, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 84,
+    "sector": ["power_energy", "renewable_energy", "manufacturing", "telecom"],
+    "tags": ["power_systems", "renewable", "electricity", "energy_efficiency"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "B.Tech / B.E. in Electrical/EEE",
+    "growth": [
+      "senior_electrical_engineer",
+      "power_systems_architect",
+      "chief_technical_officer"
+    ],
+    "entryType": ["campus_placements", "gate_for_psu", "off_campus"],
+    "companies": [
+      "Siemens India",
+      "ABB India",
+      "Tata Power",
+      "NTPC",
+      "Schneider Electric"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_36",
+    "slug": "electronics-engineer",
+    "name": "Electronics Engineer",
+    "domain": "core_engineering",
+    "description": "Designs and develops electronic circuits and components. Focuses on semiconductor technologies, signal processing, and communication systems.",
+    "requiredCourses": ["science_11_12", "btech_ece", "be_electronics"],
+    "requiredSkills": [
+      "vlsi_design",
+      "embedded_systems",
+      "pcb_design",
+      "signal_processing",
+      "verilog_vhdl"
+    ],
+    "avgSalary": "6-30 LPA",
+    "salaryRange": { "min": 6, "max": 30, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 90,
+    "sector": ["semiconductors", "consumer_electronics", "defense", "iot"],
+    "tags": ["semiconductors", "circuits", "hardware", "vlsi"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "B.Tech / B.E. in ECE / Electronics",
+    "growth": ["vlsi_architect", "senior_design_engineer", "r_and_d_head"],
+    "entryType": [
+      "campus_placements",
+      "semiconductor_drives",
+      "psu_recruitment"
+    ],
+    "companies": [
+      "Qualcomm India",
+      "Intel",
+      "Bharat Electronics Limited",
+      "Samsung R&D",
+      "Texas Instruments"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_37",
+    "slug": "aerospace-engineer",
+    "name": "Aerospace Engineer",
+    "domain": "core_engineering",
+    "description": "Designs and tests aircraft, spacecraft, and missiles. Focuses on aerodynamics, propulsion systems, and flight mechanics for defense and space exploration.",
+    "requiredCourses": ["science_11_12", "btech_aerospace", "be_aeronautical"],
+    "requiredSkills": [
+      "aerodynamics",
+      "cfd_computational_fluid_dynamics",
+      "catia_nx",
+      "flight_simulation",
+      "structural_dynamics"
+    ],
+    "avgSalary": "7-35 LPA",
+    "salaryRange": { "min": 7, "max": 35, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 87,
+    "sector": [
+      "defense",
+      "space_exploration",
+      "civil_aviation",
+      "uav_startups"
+    ],
+    "tags": ["space", "defense", "aviation", "aeronautics"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "B.Tech / B.E. in Aerospace / Aeronautical",
+    "growth": [
+      "scientist_b_to_h",
+      "senior_design_engineer",
+      "aerospace_consultant"
+    ],
+    "entryType": [
+      "isro_drdo_exams",
+      "aerospace_campus_placements",
+      "uav_industry"
+    ],
+    "companies": [
+      "ISRO",
+      "DRDO",
+      "Airbus India",
+      "The Boeing Company India",
+      "Hindustan Aeronautics Limited (HAL)"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_38",
+    "slug": "mechatronics-engineer",
+    "name": "Mechatronics Engineer",
+    "domain": "core_engineering",
+    "description": "Combines mechanical, electrical, and computer engineering to create 'smart' machines. Focuses on industrial automation, robotics, and integrated control systems.",
+    "requiredCourses": ["science_11_12", "btech_mechatronics", "be_robotics"],
+    "requiredSkills": [
+      "robotics_ros",
+      "plc_scada",
+      "machine_vision",
+      "sensor_integration",
+      "automation_programming"
+    ],
+    "avgSalary": "13-38 LPA",
+    "salaryRange": { "min": 13, "max": 38, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 92,
+    "sector": [
+      "automotive",
+      "smart_manufacturing",
+      "logistics",
+      "industrial_automation"
+    ],
+    "tags": ["robotics", "automation", "smart_factory", "industry_4_0"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "B.Tech in Mechatronics / Robotics / Mechanical (with automation certifications)",
+    "growth": [
+      "senior_automation_engineer",
+      "mechatronics_architect",
+      "engineering_manager"
+    ],
+    "entryType": ["specialized_automation_hiring", "core_tech_placements"],
+    "companies": [
+      "Bosch India",
+      "Faurecia",
+      "Eaton",
+      "L&T Technology Services",
+      "Weiss Automation"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_39",
+    "slug": "production-engineer",
+    "name": "Production-Engineer",
+    "domain": "core_engineering",
+    "description": "Plans and executes the entire production lifecycle. Optimizes manufacturing processes to ensure maximum output at minimum cost while maintaining strict safety and quality standards.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_mechanical",
+      "btech_production"
+    ],
+    "requiredSkills": [
+      "lean_manufacturing",
+      "erp_sap",
+      "six_sigma",
+      "production_planning",
+      "industrial_iot"
+    ],
+    "avgSalary": "5-18 LPA",
+    "salaryRange": { "min": 5, "max": 18, "currency": "LPA" },
+    "demandTrend": "Stable",
+    "popularityScore": 84,
+    "sector": ["automotive", "fmcg", "heavy_machinery", "pharmaceuticals"],
+    "tags": ["manufacturing", "operations", "optimization", "industry_4_0"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech / B.E. in Production or Mechanical Engineering",
+    "growth": ["production_manager", "plant_head", "operations_director"],
+    "entryType": ["campus_placements", "off_campus_drives", "gate_for_psu"],
+    "companies": [
+      "Reliance Industries",
+      "Tata Steel",
+      "Hindustan Unilever",
+      "Maruti Suzuki"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_40",
+    "slug": "industrial-qa-engineer",
+    "name": "Quality Assurance (QA) Engineer - Industrial",
+    "domain": "core_engineering",
+    "description": "Ensures physical products meet manufacturing specifications. Implements quality control systems, conducts audits, and manages supplier quality in a factory environment.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_mechanical",
+      "btech_industrial"
+    ],
+    "requiredSkills": [
+      "iso_9001",
+      "total_quality_management_tqm",
+      "statistical_process_control",
+      "root_cause_analysis",
+      "metrology"
+    ],
+    "avgSalary": "5-16 LPA",
+    "salaryRange": { "min": 5, "max": 16, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 81,
+    "sector": ["automotive", "aerospace", "electronics_manufacturing"],
+    "tags": ["quality_control", "standards", "compliance", "industrial"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech / B.E. in Mechanical/Production/Industrial",
+    "growth": ["quality_manager", "lead_auditor", "head_of_quality"],
+    "entryType": ["campus_placements", "direct_hiring"],
+    "companies": ["Bosch India", "L&T", "Samsung Manufacturing", "Adani Group"],
+    "featured": false
+  },
+  {
+    "_id": "job_41",
+    "slug": "maintenance-engineer",
+    "name": "Maintenance Engineer",
+    "domain": "core_engineering",
+    "description": "Responsible for the continuous operation of plant machinery. Focuses on preventive, predictive, and breakdown maintenance to minimize production downtime.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_mechanical",
+      "btech_electrical"
+    ],
+    "requiredSkills": [
+      "preventive_maintenance",
+      "plc_scada",
+      "troubleshooting",
+      "cmms_software",
+      "predictive_analytics"
+    ],
+    "avgSalary": "4.5-15 LPA",
+    "salaryRange": { "min": 4.5, "max": 15, "currency": "LPA" },
+    "demandTrend": "Stable",
+    "popularityScore": 79,
+    "sector": ["energy", "manufacturing", "logistics"],
+    "tags": ["reliability", "machinery", "technical_support", "maintenance"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech / B.E. in Mechanical or Electrical",
+    "growth": [
+      "senior_maintenance_engineer",
+      "maintenance_manager",
+      "facility_head"
+    ],
+    "entryType": ["campus_placements", "walk_in_interviews"],
+    "companies": ["NTPC", "JSW Steel", "ITC Limited", "Asian Paints"],
+    "featured": false
+  },
+  {
+    "_id": "job_42",
+    "slug": "industrial-engineer",
+    "name": "Industrial Engineer",
+    "domain": "core_engineering",
+    "description": "Designs systems that integrate workers, machines, and materials. Focuses on supply chain efficiency, facility layout, and human factors to increase productivity.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_industrial",
+      "mtech_industrial_management"
+    ],
+    "requiredSkills": [
+      "work_measurement",
+      "facility_layout_design",
+      "operations_research",
+      "supply_chain_mgmt",
+      "simulation_modeling"
+    ],
+    "avgSalary": "6-22 LPA",
+    "salaryRange": { "min": 6, "max": 22, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 85,
+    "sector": ["e_commerce", "healthcare", "consulting", "manufacturing"],
+    "tags": ["efficiency", "logistics", "systems_design", "industrial"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech in Industrial/Mechanical or MBA (Operations)",
+    "growth": ["supply_chain_director", "plant_manager", "consultant"],
+    "entryType": ["campus_placements", "lateral_hiring"],
+    "companies": [
+      "Amazon India",
+      "Flipkart",
+      "Deloitte",
+      "DHL",
+      "Mahindra Logistics"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_43",
+    "slug": "software-qa-engineer",
+    "name": "QA Engineer (Software)",
+    "domain": "tech",
+    "description": "Develops and executes software testing strategies. Focuses on ensuring that the final software product meets business requirements and is free of defects.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mca", "bca"],
+    "requiredSkills": [
+      "automation_testing",
+      "api_testing",
+      "agile_methodology",
+      "jira",
+      "test_planning"
+    ],
+    "avgSalary": "6-24 LPA",
+    "salaryRange": { "min": 6, "max": 24, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 93,
+    "sector": ["it_services", "product_tech", "saas"],
+    "tags": ["software_quality", "agile", "automation", "sdlc"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / MCA",
+    "growth": ["qa_lead", "test_architect", "head_of_engineering"],
+    "entryType": ["campus_placements", "off_campus", "internships"],
+    "companies": ["Microsoft", "Zomato", "Accenture", "Infosys", "Adobe"],
+    "featured": true
+  },
+  {
+    "_id": "job_44",
+    "slug": "software-tester",
+    "name": "Software Tester",
+    "domain": "tech",
+    "description": "Executes specific test cases to find bugs in software. Focuses heavily on manual testing, regression testing, and reporting issues to developers.",
+    "requiredCourses": [
+      "any_stream_12",
+      "bca",
+      "bsc_cs",
+      "testing_certification"
+    ],
+    "requiredSkills": [
+      "manual_testing",
+      "bug_reporting",
+      "test_case_writing",
+      "smoke_testing",
+      "black_box_testing"
+    ],
+    "avgSalary": "3-10 LPA",
+    "salaryRange": { "min": 3, "max": 10, "currency": "LPA" },
+    "demandTrend": "Stable",
+    "popularityScore": 87,
+    "sector": ["it_services", "outsourcing", "kpo"],
+    "tags": ["testing", "manual_qa", "bugs", "software_testing"],
+    "educationLevel": ["ug"],
+    "level": ["entry"],
+    "difficultyLevel": "easy",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "Graduate in any stream (with testing certification)",
+    "growth": ["qa_engineer", "automation_test_engineer", "senior_tester"],
+    "entryType": [
+      "walk_in_interviews",
+      "training_institutes",
+      "it_recruitment"
+    ],
+    "companies": ["TCS", "Cognizant", "Wipro", "HCLTech"],
+    "featured": false
+  },
+  {
+    "_id": "job_45",
+    "slug": "automation-tester",
+    "name": "Automation Tester",
+    "domain": "tech",
+    "description": "Writes scripts and uses tools to automate the software testing process. Focuses on efficiency, reducing manual effort, and ensuring faster deployment cycles through CI/CD integration.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mca", "bca"],
+    "requiredSkills": [
+      "selenium_playwright",
+      "java_python",
+      "jenkins_ci_cd",
+      "api_automation_postman",
+      "appium_mobile_testing"
+    ],
+    "avgSalary": "8-25 LPA",
+    "salaryRange": { "min": 8, "max": 25, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 92,
+    "sector": ["it_services", "product_tech", "fintech"],
+    "tags": ["automation", "testing", "quality_engineering", "devops"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / MCA",
+    "growth": [
+      "qa_lead",
+      "sdets_software_dev_engineer_in_test",
+      "test_architect"
+    ],
+    "entryType": [
+      "campus_placements",
+      "internal_transition_from_manual",
+      "off_campus"
+    ],
+    "companies": [
+      "Accenture",
+      "Zomato",
+      "ThoughtWorks",
+      "Cisco India",
+      "Capgemini"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_46",
+    "slug": "product-manager",
+    "name": "Product Manager",
+    "domain": "product_design",
+    "description": "Owns the 'Why', 'What', and 'When' of a product. Acts as the CEO of the product, balancing customer needs, business goals, and technical feasibility to define a winning roadmap.",
+    "requiredCourses": ["any_stream_12", "btech", "mba_product_mgmt"],
+    "requiredSkills": [
+      "product_strategy",
+      "user_research",
+      "agile_scrum",
+      "data_analytics",
+      "market_analysis"
+    ],
+    "avgSalary": "15-55 LPA",
+    "salaryRange": { "min": 15, "max": 55, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 98,
+    "sector": ["e_commerce", "saas", "fintech", "consumer_tech"],
+    "tags": ["strategy", "leadership", "roadmap", "ux"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior", "leadership"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "remote"],
+    "minQualification": "B.Tech + MBA or relevant Product experience",
+    "growth": ["senior_pm", "director_of_product", "chief_product_officer"],
+    "entryType": [
+      "apm_programs",
+      "mba_placements",
+      "lateral_move_from_eng_design"
+    ],
+    "companies": ["Flipkart", "Razorpay", "Google India", "PhonePe", "Swiggy"],
+    "featured": true
+  },
+  {
+    "_id": "job_47",
+    "slug": "technical-product-manager",
+    "name": "Technical Product Manager (TPM)",
+    "domain": "product_design",
+    "description": "A Product Manager with a deep technical background. Focuses on the internal architecture, APIs, and complex engineering challenges of a product, working closely with dev teams.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mtech_mba"],
+    "requiredSkills": [
+      "system_design",
+      "api_product_management",
+      "cloud_architecture",
+      "technical_writing",
+      "backlog_grooming"
+    ],
+    "avgSalary": "18-65 LPA",
+    "salaryRange": { "min": 18, "max": 65, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 95,
+    "sector": ["cloud_infrastructure", "ai_platforms", "fintech_core"],
+    "tags": ["technical_strategy", "architecture", "api", "tpm"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior", "expert"],
+    "difficultyLevel": "very_hard",
+    "workType": ["hybrid", "remote"],
+    "minQualification": "B.Tech in CS/IT (mandatory) + PM experience",
+    "growth": ["senior_tpm", "principal_tpm", "vp_engineering_product"],
+    "entryType": ["lateral_move_from_sde", "specialized_tpm_hiring"],
+    "companies": [
+      "Amazon",
+      "Microsoft",
+      "Salesforce India",
+      "Atlassian",
+      "Oracle"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_48",
+    "slug": "project-manager",
+    "name": "Project Manager",
+    "domain": "business",
+    "description": "Ensures projects are completed on time, within budget, and to the required quality. Focuses on the 'How' and 'Who', managing resources, risks, and stakeholder expectations.",
+    "requiredCourses": ["any_stream_12", "graduation", "pmp_certification"],
+    "requiredSkills": [
+      "pmp_prince2",
+      "risk_management",
+      "stakeholder_comm",
+      "resource_planning",
+      "jira_ms_project"
+    ],
+    "avgSalary": "8-30 LPA",
+    "salaryRange": { "min": 8, "max": 30, "currency": "LPA" },
+    "demandTrend": "Stable",
+    "popularityScore": 89,
+    "sector": ["it_services", "construction", "manufacturing", "healthcare"],
+    "tags": ["management", "execution", "deadlines", "planning"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "Any Graduate + PMP/Agile Certification",
+    "growth": ["program_manager", "portfolio_manager", "coo"],
+    "entryType": ["internal_promotion", "lateral_hiring", "cert_based_hiring"],
+    "companies": ["Infosys", "Wipro", "TCS", "Cognizant", "L&T Construction"],
+    "featured": false
+  },
+  {
+    "_id": "job_49",
+    "slug": "business-analyst",
+    "name": "Business Analyst (BA)",
+    "domain": "business",
+    "description": "Analyzes business needs and translates them into technical requirements. Acts as a translator between business stakeholders and the development team.",
+    "requiredCourses": [
+      "any_stream_12",
+      "bca_bcom_btech",
+      "mba_finance_marketing"
+    ],
+    "requiredSkills": [
+      "requirement_gathering",
+      "brd_frd_documentation",
+      "sql_basics",
+      "data_visualization",
+      "process_mapping"
+    ],
+    "avgSalary": "7-22 LPA",
+    "salaryRange": { "min": 7, "max": 22, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 91,
+    "sector": ["banking_bfsi", "consulting", "it_services"],
+    "tags": ["requirements", "documentation", "business_process", "ba"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["hybrid", "remote"],
+    "minQualification": "Graduate in any stream (Business/IT preferred)",
+    "growth": ["senior_ba", "product_owner", "consultant"],
+    "entryType": ["campus_placements", "management_trainee", "it_recruitment"],
+    "companies": [
+      "HDFC Bank",
+      "Deloitte",
+      "EY India",
+      "JPMorgan Chase",
+      "Capgemini"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_50",
+    "slug": "it-consultant",
+    "name": "IT Consultant",
+    "domain": "business",
+    "description": "Provides expert advice to businesses on how to use information technology to meet their objectives. Often works on large-scale digital transformation and system implementation projects.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "mba_it"],
+    "requiredSkills": [
+      "digital_transformation",
+      "erp_sap_oracle",
+      "strategy_consulting",
+      "cloud_adoption",
+      "enterprise_architecture"
+    ],
+    "avgSalary": "10-40 LPA",
+    "salaryRange": { "min": 10, "max": 40, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 88,
+    "sector": ["consulting_firms", "government_tech", "enterprise_software"],
+    "tags": ["consulting", "it_strategy", "enterprise", "transformation"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior", "expert"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech + MBA or 5+ years IT experience",
+    "growth": ["principal_consultant", "partner", "director_it_strategy"],
+    "entryType": ["lateral_hiring", "specialized_consultancy_drives"],
+    "companies": [
+      "PwC India",
+      "KPMG",
+      "IBM Consulting",
+      "Accenture Strategy",
+      "Capgemini Invent"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_51",
+    "slug": "ui-ux-designer",
+    "name": "UI/UX Designer",
+    "domain": "product_design",
+    "description": "Designs intuitive and visually stunning digital experiences. Focuses on the entire user journey, from initial research and wireframing to high-fidelity visual design and interactive prototyping.",
+    "requiredCourses": [
+      "any_stream_12",
+      "degree_in_design_bdes",
+      "certification_in_ux"
+    ],
+    "requiredSkills": [
+      "figma_sketch",
+      "user_research",
+      "wireframing_prototyping",
+      "design_systems",
+      "glassmorphism_dark_mode"
+    ],
+    "avgSalary": "6-32 LPA",
+    "salaryRange": { "min": 6, "max": 32, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 96,
+    "sector": ["product_tech", "saas", "creative_agencies", "fintech"],
+    "tags": ["ux_research", "visual_design", "prototyping", "product_design"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "Graduate in any stream (Portfolio is more important than degree)",
+    "growth": [
+      "senior_designer",
+      "product_designer",
+      "design_manager",
+      "head_of_design"
+    ],
+    "entryType": [
+      "behance_dribbble_portfolio",
+      "internships",
+      "design_bootcamps"
+    ],
+    "companies": ["Razorpay", "Zomato", "Adobe India", "Microsoft", "Swiggy"],
+    "featured": true
+  },
+  {
+    "_id": "job_52",
+    "slug": "ui-developer",
+    "name": "UI Developer",
+    "domain": "product_design",
+    "description": "Bridges the gap between design and technology. Specializes in turning static designs into interactive, high-performance web interfaces using modern frontend frameworks.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "bca", "bsc_cs"],
+    "requiredSkills": [
+      "react_js",
+      "tailwind_css",
+      "javascript_es6",
+      "framer_motion",
+      "responsive_design"
+    ],
+    "avgSalary": "5-24 LPA",
+    "salaryRange": { "min": 5, "max": 24, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 91,
+    "sector": ["it_services", "product_startups", "e_commerce"],
+    "tags": [
+      "frontend",
+      "web_development",
+      "ui_components",
+      "ux_implementation"
+    ],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA / BSC (CS)",
+    "growth": ["senior_ui_developer", "frontend_architect", "tech_lead"],
+    "entryType": ["github_portfolio", "campus_placements", "hackathons"],
+    "companies": [
+      "Flipkart",
+      "Accenture",
+      "Paytm",
+      "Publicis Sapient",
+      "ThoughtWorks"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_53",
+    "slug": "technical-writer",
+    "name": "Technical Writer",
+    "domain": "product_design",
+    "description": "Simplifies complex technical information into clear, concise documentation. Creates API guides, user manuals, and developer portals for software and hardware products.",
+    "requiredCourses": [
+      "any_stream_12",
+      "ba_english_journalism",
+      "btech_cs_it"
+    ],
+    "requiredSkills": [
+      "api_documentation",
+      "markdown_dita",
+      "technical_editing",
+      "git_github",
+      "confluence_jira"
+    ],
+    "avgSalary": "6-25 LPA",
+    "salaryRange": { "min": 6, "max": 25, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 85,
+    "sector": ["saas", "enterprise_software", "cloud_computing", "fintech"],
+    "tags": ["documentation", "content_strategy", "technical_comm", "api_docs"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "Any Graduate with excellent writing skills and technical aptitude",
+    "growth": [
+      "senior_tech_writer",
+      "documentation_manager",
+      "information_architect"
+    ],
+    "entryType": [
+      "writing_samples",
+      "technical_certifications",
+      "lateral_move_from_qa_dev"
+    ],
+    "companies": [
+      "Google India",
+      "Oracle",
+      "Salesforce",
+      "Cisco",
+      "Freshworks"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_54",
+    "slug": "blockchain-developer",
+    "name": "Blockchain Developer",
+    "domain": "tech",
+    "description": "Designs and implements decentralized networks and protocols. Works on core blockchain architecture, consensus mechanisms, and secure peer-to-peer data structures.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "blockchain_certification"
+    ],
+    "requiredSkills": [
+      "cryptography",
+      "go_rust",
+      "data_structures",
+      "consensus_algorithms",
+      "hyperledger_fabric"
+    ],
+    "avgSalary": "10-45 LPA",
+    "salaryRange": { "min": 10, "max": 45, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 94,
+    "sector": [
+      "fintech",
+      "supply_chain",
+      "government_tech",
+      "blockchain_startups"
+    ],
+    "tags": ["decentralization", "cryptography", "p2p", "distributed_ledger"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior", "expert"],
+    "difficultyLevel": "hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech in CS/IT (Foundational knowledge of blockchain is mandatory)",
+    "growth": ["blockchain_architect", "cto_startup", "security_researcher"],
+    "entryType": [
+      "hackathons",
+      "open_source_contributions",
+      "specialized_hiring"
+    ],
+    "companies": [
+      "Polygon",
+      "CoinSwitch",
+      "NPCI",
+      "IBM Blockchain",
+      "ConsenSys"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_55",
+    "slug": "web3-developer",
+    "name": "Web3 Developer",
+    "domain": "tech",
+    "description": "Builds decentralized applications (dApps) that interact with blockchains. Focuses on the integration layer between smart contracts and modern web technologies.",
+    "requiredCourses": ["science_11_12", "btech_cs_it", "bca"],
+    "requiredSkills": [
+      "solidity",
+      "ethers_js_web3_js",
+      "react_js",
+      "ipfs_decentralized_storage",
+      "wallet_integration"
+    ],
+    "avgSalary": "8-35 LPA",
+    "salaryRange": { "min": 8, "max": 35, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 97,
+    "sector": ["gaming", "defi", "nft_marketplaces", "metaverse"],
+    "tags": ["dapps", "web3", "ethereum", "polygon", "defi"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA with Frontend & Solidity basics",
+    "growth": [
+      "senior_web3_engineer",
+      "product_lead_web3",
+      "full_stack_blockchain_dev"
+    ],
+    "entryType": ["dapp_portfolio", "hackathons", "web3_internships"],
+    "companies": [
+      "Huddle01",
+      "Instadapp",
+      "Arcana Network",
+      "WazirX",
+      "Unstoppable Domains"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_56",
+    "slug": "smart-contract-developer",
+    "name": "Smart Contract Developer",
+    "domain": "tech",
+    "description": "Specializes in writing and auditing self-executing code on the blockchain. Focuses on security, gas optimization, and logic implementation for DeFi and DAO protocols.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "advanced_blockchain_security"
+    ],
+    "requiredSkills": [
+      "solidity_rust",
+      "gas_optimization",
+      "unit_testing_hardhat",
+      "smart_contract_auditing",
+      "defi_protocols"
+    ],
+    "avgSalary": "12-50 LPA",
+    "salaryRange": { "min": 12, "max": 50, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 95,
+    "sector": ["defi", "dao", "blockchain_security", "fintech"],
+    "tags": ["solidity", "smart_contracts", "security", "gas_optimization"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior", "expert"],
+    "difficultyLevel": "very_hard",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech CS (Strong focus on security and logic auditing)",
+    "growth": [
+      "smart_contract_auditor",
+      "protocol_architect",
+      "security_engineer"
+    ],
+    "entryType": ["bug_bounty_programs", "github_audits", "protocol_grants"],
+    "companies": ["CertiK", "Quantstamp", "Polygon", "Aave Partners", "Lido"],
+    "featured": true
+  },
+  {
+    "_id": "job_57",
+    "slug": "iot-engineer",
+    "name": "IoT Engineer",
+    "domain": "tech",
+    "description": "Develops and integrates smart systems that connect physical devices to the internet. Focuses on sensor networks, data collection, and real-time hardware-software communication.",
+    "requiredCourses": ["science_11_12", "btech_ece_cs", "iot_certification"],
+    "requiredSkills": [
+      "embedded_c_python",
+      "mqtt_coap_protocols",
+      "arduino_raspberry_pi",
+      "cloud_integration",
+      "wireless_networking"
+    ],
+    "avgSalary": "6-28 LPA",
+    "salaryRange": { "min": 6, "max": 28, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 89,
+    "sector": [
+      "smart_homes",
+      "industrial_automation",
+      "agriculture_tech",
+      "logistics"
+    ],
+    "tags": ["hardware", "connectivity", "sensors", "smart_systems"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "B.Tech in ECE / EEE / CS",
+    "growth": ["iot_architect", "solutions_lead", "cto_smart_tech"],
+    "entryType": ["campus_placements", "innovation_hubs", "startup_hiring"],
+    "companies": [
+      "Bosch India",
+      "Honeywell",
+      "Reliance Jio",
+      "Schneider Electric",
+      "Cisco"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_58",
+    "slug": "digital-forensics-expert",
+    "name": "Digital Forensics Expert",
+    "domain": "cybersecurity",
+    "description": "Recovers and analyzes data from digital devices to investigate crimes. Focuses on maintaining a chain of custody and providing evidence for legal proceedings.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "msc_digital_forensics"
+    ],
+    "requiredSkills": [
+      "encase_ftk_tools",
+      "data_recovery",
+      "malware_analysis",
+      "network_forensics",
+      "legal_compliance"
+    ],
+    "avgSalary": "7-30 LPA",
+    "salaryRange": { "min": 7, "max": 30, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 85,
+    "sector": ["law_enforcement", "corporate_security", "legal_firms"],
+    "tags": ["investigation", "security", "legal_evidence", "cyber_forensics"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech with specialized Cyber Forensics certification",
+    "growth": [
+      "forensic_director",
+      "security_consultant",
+      "chief_investigator"
+    ],
+    "entryType": [
+      "government_exams",
+      "cyber_cell_recruitment",
+      "big_4_consulting"
+    ],
+    "companies": [
+      "EY",
+      "Deloitte",
+      "Central Forensic Science Laboratory",
+      "KPMG",
+      "Police Cyber Cells"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_59",
+    "slug": "cybercrime-investigator",
+    "name": "Cybercrime Investigator",
+    "domain": "cybersecurity",
+    "description": "Works with law enforcement or private agencies to track down cyber criminals. Specializes in identifying patterns in phishing, financial fraud, and data breaches.",
+    "requiredCourses": ["any_stream_12", "bca_bsc_it", "cyber_law_diploma"],
+    "requiredSkills": [
+      "threat_intelligence",
+      "social_engineering_awareness",
+      "osint",
+      "incident_response",
+      "dark_web_monitoring"
+    ],
+    "avgSalary": "5-22 LPA",
+    "salaryRange": { "min": 5, "max": 22, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 92,
+    "sector": ["government", "banking", "private_investigation"],
+    "tags": ["public_safety", "cyber_law", "investigation", "anti_fraud"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "Graduate in IT/CS or Law with IT specialization",
+    "growth": [
+      "senior_investigator",
+      "intelligence_analyst",
+      "security_manager"
+    ],
+    "entryType": ["government_departmental_exams", "banking_security_hiring"],
+    "companies": [
+      "National Investigation Agency (NIA)",
+      "HDFC Bank",
+      "ICICI Bank",
+      "CBI Cyber Cell"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_60",
+    "slug": "gis-developer",
+    "name": "GIS Developer",
+    "domain": "emerging_tech",
+    "description": "Builds and maintains Geographic Information Systems. Combines mapping data with software development to create spatial visualization and navigation tools.",
+    "requiredCourses": ["science_11_12", "btech_cs_civil", "msc_gis"],
+    "requiredSkills": [
+      "arcgis_qgis",
+      "python_spatial_libraries",
+      "geoserver",
+      "sql_postgis",
+      "web_mapping_api"
+    ],
+    "avgSalary": "6-24 LPA",
+    "salaryRange": { "min": 6, "max": 24, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 78,
+    "sector": [
+      "urban_planning",
+      "defense",
+      "environmental_agencies",
+      "logistics"
+    ],
+    "tags": ["mapping", "spatial_data", "geospatial", "visualization"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["hybrid", "onsite"],
+    "minQualification": "B.Tech (Civil/CS) or M.Sc in Geoinformatics",
+    "growth": ["senior_gis_engineer", "gis_architect", "project_manager"],
+    "entryType": ["government_projects", "specialized_tech_hiring"],
+    "companies": [
+      "ESRI India",
+      "ISRO",
+      "MapmyIndia",
+      "Google Maps India",
+      "Trimble"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_61",
+    "slug": "bioinformatics-analyst",
+    "name": "Bioinformatics Analyst",
+    "domain": "emerging_tech",
+    "description": "Applies computational techniques to analyze biological data, such as DNA sequences and protein structures. Essential for drug discovery and genetic research.",
+    "requiredCourses": [
+      "science_11_12_pcb_pcm",
+      "btech_bioinformatics",
+      "msc_biotech"
+    ],
+    "requiredSkills": [
+      "python_r",
+      "genomics_tools",
+      "statistical_modeling",
+      "molecular_modeling",
+      "big_data_biology"
+    ],
+    "avgSalary": "6-35 LPA",
+    "salaryRange": { "min": 6, "max": 35, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 81,
+    "sector": ["pharmaceuticals", "biotech", "healthcare_research"],
+    "tags": ["genetics", "biology_data", "research", "healthcare"],
+    "educationLevel": ["ug", "pg", "phd"],
+    "level": ["mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["hybrid", "remote"],
+    "minQualification": "B.Tech / M.Sc in Bioinformatics or Biotech",
+    "growth": [
+      "senior_research_analyst",
+      "bioinformatics_architect",
+      "scientist"
+    ],
+    "entryType": ["research_fellowships", "pharma_hiring_drives"],
+    "companies": [
+      "Biocon",
+      "Dr. Reddy's",
+      "Reliance Life Sciences",
+      "Thermo Fisher",
+      "Strand Life Sciences"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_62",
+    "slug": "sports-data-analyst",
+    "name": "Sports Data Analyst",
+    "domain": "data_ai",
+    "description": "Uses statistical models to evaluate player performance, team strategy, and match outcomes. Provides insights for recruitment, training, and real-time game tactics.",
+    "requiredCourses": [
+      "any_stream_12",
+      "bsc_statistics",
+      "btech",
+      "sports_management"
+    ],
+    "requiredSkills": [
+      "data_visualization",
+      "sql_python",
+      "predictive_modeling",
+      "sports_performance_metrics",
+      "video_analysis_software"
+    ],
+    "avgSalary": "5-30 LPA",
+    "salaryRange": { "min": 5, "max": 30, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 88,
+    "sector": ["sports_leagues", "media_broadcasting", "betting_tech"],
+    "tags": ["sports", "statistics", "performance", "analytics"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["onsite", "remote"],
+    "minQualification": "Graduate in Statistics / CS / Engineering with interest in Sports",
+    "growth": ["head_of_performance", "strategy_lead", "technical_director"],
+    "entryType": ["sports_internships", "portfolio_projects", "media_hiring"],
+    "companies": [
+      "IPL Teams",
+      "Star Sports",
+      "Dream11",
+      "Stats Perform",
+      "City Football Group India"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_63",
+    "slug": "lecturer-professor",
+    "name": "Lecturer / Professor",
+    "domain": "education",
+    "description": "Teaches academic subjects at universities or colleges. Conducts original research, publishes scholarly articles, and mentors students in specialized fields of study.",
+    "requiredCourses": [
+      "any_stream_12",
+      "graduation",
+      "post_graduation",
+      "ugc_net_set",
+      "phd"
+    ],
+    "requiredSkills": [
+      "academic_research",
+      "curriculum_design",
+      "public_speaking",
+      "scholarly_writing",
+      "educational_technology"
+    ],
+    "avgSalary": "8-22 LPA",
+    "salaryRange": { "min": 8, "max": 22, "currency": "LPA" },
+    "demandTrend": "Stable",
+    "popularityScore": 86,
+    "sector": ["higher_education", "academia", "research_institutions"],
+    "tags": ["teaching", "research", "university", "education"],
+    "educationLevel": ["pg", "phd"],
+    "level": ["mid", "senior", "leadership"],
+    "difficultyLevel": "hard",
+    "workType": ["onsite"],
+    "minQualification": "Post-Graduation + UGC NET (or PhD for Professor roles)",
+    "growth": [
+      "assistant_professor",
+      "associate_professor",
+      "professor",
+      "dean_registrar"
+    ],
+    "entryType": ["university_selection_panels", "phd_interviews"],
+    "companies": [
+      "IITs",
+      "NITs",
+      "IISc",
+      "Central Universities",
+      "Private Universities (Amity, Manipal)"
+    ],
+    "featured": false
+  },
+  {
+    "_id": "job_64",
+    "slug": "technical-trainer",
+    "name": "Technical Trainer",
+    "domain": "education",
+    "description": "Delivers specialized technical instruction to corporate employees or students. Focuses on bridging the skill gap in specific technologies like Cloud, AI, or SAP.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_cs_it",
+      "industry_certifications"
+    ],
+    "requiredSkills": [
+      "presentation_skills",
+      "hands_on_lab_setup",
+      "technical_expertise",
+      "content_development",
+      "student_assessment"
+    ],
+    "avgSalary": "7-25 LPA",
+    "salaryRange": { "min": 7, "max": 25, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 89,
+    "sector": ["corporate_training", "edtech", "it_services"],
+    "tags": [
+      "upskilling",
+      "mentorship",
+      "corporate_learning",
+      "technical_instruction"
+    ],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid", "onsite"],
+    "minQualification": "B.Tech / MCA + Industry Experience",
+    "growth": [
+      "lead_technical_trainer",
+      "learning_and_development_manager",
+      "chief_learning_officer"
+    ],
+    "entryType": ["corporate_hiring", "edtech_recruitment", "freelancing"],
+    "companies": [
+      "Infosys (Education & Research)",
+      "NIIT",
+      "Simplilearn",
+      "AWS Training",
+      "Microsoft Learning"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_65",
+    "slug": "coding-instructor",
+    "name": "Coding Instructor",
+    "domain": "education",
+    "description": "Teaches programming languages and software development principles to beginners or bootcamp students. Focuses on practical coding, logic building, and project-based learning.",
+    "requiredCourses": ["any_stream_12", "bca_btech_cs", "coding_bootcamp"],
+    "requiredSkills": [
+      "javascript_python",
+      "logic_building",
+      "debugging",
+      "online_teaching_tools",
+      "student_engagement"
+    ],
+    "avgSalary": "5-18 LPA",
+    "salaryRange": { "min": 5, "max": 18, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 92,
+    "sector": ["k12_education", "edtech_bootcamps", "online_learning"],
+    "tags": ["programming", "teaching", "bootcamp", "coding"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid"],
+    "difficultyLevel": "medium",
+    "workType": ["remote", "hybrid"],
+    "minQualification": "B.Tech / BCA (Strong coding logic is essential)",
+    "growth": ["senior_instructor", "curriculum_lead", "bootcamp_director"],
+    "entryType": ["edtech_platforms", "independent_tutoring"],
+    "companies": [
+      "Scaler",
+      "Newton School",
+      "Byju's FutureSchool",
+      "WhiteHat Jr",
+      "Masai School"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_66",
+    "slug": "psu-engineer-e1",
+    "name": "PSU Engineer (E1 Level)",
+    "domain": "government",
+    "description": "Works in Public Sector Undertakings at the entry executive level. Handles engineering operations, maintenance, and project supervision in core industrial sectors.",
+    "requiredCourses": [
+      "science_11_12",
+      "btech_relevant_discipline",
+      "gate_exam"
+    ],
+    "requiredSkills": [
+      "technical_field_operations",
+      "industrial_safety",
+      "project_supervision",
+      "public_sector_compliance",
+      "technical_reporting"
+    ],
+    "avgSalary": "12-25 LPA",
+    "salaryRange": { "min": 12, "max": 25, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 95,
+    "sector": ["oil_and_gas", "power", "mining", "manufacturing"],
+    "tags": ["government_job", "psu", "core_engineering", "executive_trainee"],
+    "educationLevel": ["ug"],
+    "level": ["entry"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech / B.E. + Valid GATE Score",
+    "growth": [
+      "assistant_manager_e2",
+      "manager_e3",
+      "senior_manager_e4",
+      "general_manager"
+    ],
+    "entryType": ["gate_recruitment", "psu_direct_exams"],
+    "companies": ["ONGC", "IOCL", "NTPC", "BHEL", "GAIL", "PowerGrid"],
+    "featured": true
+  },
+  {
+    "_id": "job_67",
+    "slug": "ies-officer",
+    "name": "UPSC Engineering Services Officer (IES)",
+    "domain": "government",
+    "description": "A Class-1 officer in the Indian Engineering Services. Manages large-scale government engineering projects and technical administration for the Government of India.",
+    "requiredCourses": ["science_11_12", "btech_be", "upsc_ese_exam"],
+    "requiredSkills": [
+      "policy_implementation",
+      "technical_administration",
+      "project_management",
+      "government_liaison",
+      "engineering_ethics"
+    ],
+    "avgSalary": "10-24 LPA",
+    "salaryRange": { "min": 10, "max": 24, "currency": "LPA" },
+    "demandTrend": "Stable",
+    "popularityScore": 97,
+    "sector": [
+      "railways",
+      "defense_services",
+      "central_public_works",
+      "telecom"
+    ],
+    "tags": ["upsc", "class_1_officer", "government_service", "civil_services"],
+    "educationLevel": ["ug"],
+    "level": ["entry", "mid", "senior", "leadership"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech / B.E. in Civil/Mech/Elec/E&T",
+    "growth": [
+      "assistant_executive_engineer",
+      "executive_engineer",
+      "chief_engineer",
+      "cabinet_secretary_level"
+    ],
+    "entryType": ["upsc_ese_exam"],
+    "companies": [
+      "Indian Railways",
+      "Central Water Commission",
+      "Military Engineer Services (MES)",
+      "CPWD"
+    ],
+    "featured": true
+  },
+  {
+    "_id": "job_68",
+    "slug": "drdo-scientist",
+    "name": "DRDO Scientist",
+    "domain": "government",
+    "description": "Conducts high-level defense research and development. Works on advanced weapon systems, aerospace technology, and national security solutions.",
+    "requiredCourses": ["science_11_12", "btech_mtech_phd", "gate_drdo_exam"],
+    "requiredSkills": [
+      "defense_r_and_d",
+      "advanced_simulation",
+      "systems_engineering",
+      "experimental_physics",
+      "aerospace_electronics"
+    ],
+    "avgSalary": "12-30 LPA",
+    "salaryRange": { "min": 12, "max": 30, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 94,
+    "sector": ["defense", "aerospace", "national_security"],
+    "tags": ["r_and_d", "scientist", "defense_tech", "government_research"],
+    "educationLevel": ["ug", "pg", "phd"],
+    "level": ["entry", "mid", "senior", "expert"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite"],
+    "minQualification": "B.Tech (First Class) + GATE or DRDO entrance exam",
+    "growth": [
+      "scientist_b",
+      "scientist_c",
+      "scientist_d",
+      "distinguished_scientist"
+    ],
+    "entryType": ["rac_drdo_recruitment", "campus_placements_iits"],
+    "companies": ["DRDO Labs (ADE, GTRE, CAIR, LRDE)", "Ministry of Defence"],
+    "featured": true
+  },
+  {
+    "_id": "job_69",
+    "slug": "isro-scientist-engineer",
+    "name": "ISRO Scientist/Engineer",
+    "domain": "government",
+    "description": "Designs and develops technologies for space exploration. Works on satellite systems, launch vehicles, and interplanetary missions, contributing to India's national space program.",
+    "requiredCourses": ["science_11_12", "btech_be", "isro_icrb_exam"],
+    "requiredSkills": [
+      "propulsion_systems",
+      "satellite_communication",
+      "orbital_mechanics",
+      "advanced_materials_science",
+      "embedded_real_time_systems"
+    ],
+    "avgSalary": "10-24 LPA",
+    "salaryRange": { "min": 10, "max": 24, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 98,
+    "sector": ["space_research", "aerospace", "government"],
+    "tags": ["space", "isro", "research", "engineering"],
+    "educationLevel": ["ug", "pg", "phd"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite"],
+    "minQualification": "B.E / B.Tech in Electronics, Mechanical, or Computer Science (First Class)",
+    "growth": [
+      "scientist_sc",
+      "scientist_sd",
+      "scientist_se_to_h",
+      "distinguished_scientist"
+    ],
+    "entryType": ["isro_icrb_centralized_recruitment", "iist_campus_placement"],
+    "companies": ["ISRO (VSSC, URSC, SDSC, SAC, NRSC)", "Department of Space"],
+    "featured": true
+  },
+  {
+    "_id": "job_70",
+    "slug": "freelance-developer",
+    "name": "Freelance Developer",
+    "domain": "entrepreneurship",
+    "description": "Operates as an independent contractor providing software development services to multiple clients globally. Manages the entire project lifecycle from acquisition to delivery.",
+    "requiredCourses": [
+      "any_stream_12",
+      "btech_cs_it",
+      "bca",
+      "self_taught_coding"
+    ],
+    "requiredSkills": [
+      "full_stack_development",
+      "client_communication",
+      "project_management",
+      "personal_branding",
+      "negotiation_skills"
+    ],
+    "avgSalary": "12-60 LPA",
+    "salaryRange": { "min": 12, "max": 60, "currency": "LPA" },
+    "demandTrend": "Very High",
+    "popularityScore": 90,
+    "sector": ["gig_economy", "software_consulting", "diverse_industries"],
+    "tags": ["remote_work", "solopreneur", "flexibility", "global_clients"],
+    "educationLevel": ["ug"],
+    "level": ["mid", "senior", "expert"],
+    "difficultyLevel": "hard",
+    "workType": ["remote"],
+    "minQualification": "Strong Portfolio + Technical Expertise",
+    "growth": [
+      "agency_owner",
+      "specialized_consultant",
+      "top_rated_freelancer"
+    ],
+    "entryType": [
+      "upwork_toptal",
+      "personal_networking",
+      "open_source_contributions"
+    ],
+    "companies": ["Self-Employed", "Toptal", "Upwork", "Freelancer.com"],
+    "featured": false
+  },
+  {
+    "_id": "job_71",
+    "slug": "indie-hacker",
+    "name": "Indie Hacker",
+    "domain": "entrepreneurship",
+    "description": "Builds and launches independent software products (SaaS, Apps, Tools) without venture capital. Focuses on 'ramen profitability' and building profitable micro-businesses.",
+    "requiredCourses": ["any_stream_12", "btech_cs_it", "bca"],
+    "requiredSkills": [
+      "rapid_prototyping",
+      "product_marketing",
+      "seo_content_strategy",
+      "no_code_low_code",
+      "customer_support"
+    ],
+    "avgSalary": "0-100+ LPA",
+    "salaryRange": { "min": 0, "max": 100, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 85,
+    "sector": ["software_products", "micro_saas", "digital_tools"],
+    "tags": ["startup", "solopreneur", "passive_income", "product_led_growth"],
+    "educationLevel": ["any"],
+    "level": ["entry", "mid", "senior"],
+    "difficultyLevel": "hard",
+    "workType": ["remote"],
+    "minQualification": "Ability to build and market a product end-to-end",
+    "growth": [
+      "successful_exit",
+      "portfolio_of_small_bets",
+      "serial_entrepreneur"
+    ],
+    "entryType": [
+      "product_hunt_launch",
+      "twitter_build_in_public",
+      "indiehackers_community"
+    ],
+    "companies": ["Self-Owned Projects", "Micro-SaaS Startups"],
+    "featured": true
+  },
+  {
+    "_id": "job_72",
+    "slug": "startup-founder",
+    "name": "Startup Founder",
+    "domain": "entrepreneurship",
+    "description": "Establishes and leads a new business venture designed for rapid growth. Responsible for fundraising, team building, product vision, and overall strategy to disrupt a market.",
+    "requiredCourses": ["any_stream_12", "graduation", "mba_optional"],
+    "requiredSkills": [
+      "fundraising_pitching",
+      "leadership_team_building",
+      "strategic_vision",
+      "resilience",
+      "financial_literacy"
+    ],
+    "avgSalary": "0-150+ LPA",
+    "salaryRange": { "min": 0, "max": 150, "currency": "LPA" },
+    "demandTrend": "High",
+    "popularityScore": 95,
+    "sector": ["tech_startups", "fintech", "edtech", "all_sectors"],
+    "tags": ["entrepreneurship", "innovation", "venture_capital", "ceo"],
+    "educationLevel": ["ug", "pg"],
+    "level": ["leadership"],
+    "difficultyLevel": "very_hard",
+    "workType": ["onsite", "hybrid"],
+    "minQualification": "Strong vision and execution capability",
+    "growth": [
+      "ipo_exit",
+      "acquisition",
+      "serial_entrepreneur",
+      "angel_investor"
+    ],
+    "entryType": [
+      "incubators_ycombinator",
+      "startup_accelerators",
+      "bootstrapping"
+    ],
+    "companies": ["Early-stage ventures", "Unicorns", "Self-Founded"],
+    "featured": true
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "_id": "job_frontend_developer",
+    "slug": "frontend-developer",
+    "title": "Frontend Developer",
+    "domain": "Software",
+    "category": "software_development",
+    "description": "Specializes in building the visual and interactive elements of websites and applications that users interact with directly.",
+    "overview": {
+      "difficultyLevel": "medium",
+      "demandTrend": "high",
+      "popularityScore": 95,
+      "futureScope": "very_good",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "6-25 LPA", "min": 6, "max": 25, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E / BCA",
+      "recommendedCourses": ["science_11_12", "course_be_cse", "course_btech_it", "course_bca"],
+      "preferredLevels": ["ug"]
+    },
+    "skills": {
+      "technical": ["html_css", "javascript", "react_js", "next_js", "tailwind_css", "typescript", "responsive_design"],
+      "soft": ["visual_creativity", "attention_to_detail", "collaboration"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_frontend_developer", "ui_developer_intern", "associate_web_developer"],
+      "growthRoles": ["senior_frontend_engineer", "frontend_architect", "ui_ux_manager", "cto"]
+    },
+    "hiring": {
+      "entryMethods": ["portfolio_showcase", "off_campus", "internships", "open_source_contributions"],
+      "topCompanies": ["Zomato", "Swiggy", "Meta", "Flipkart", "Razorpay"]
+    },
+    "industrySectors": ["e_commerce", "saas", "digital_agencies", "fintech"],
+    "tags": ["web_design", "javascript", "frontend", "ui_ux", "creative"],
+    "matching": {
+      "primaryCourses": ["course_be_cse", "course_btech_it"],
+      "secondaryCourses": ["course_bca", "web_development_bootcamps"],
+      "relatedDomains": ["ui_ux_design", "full_stack_development"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_backend_developer",
+    "slug": "backend-developer",
+    "title": "Backend Developer",
+    "domain": "Software",
+    "category": "software_development",
+    "description": "Focuses on server-side logic, databases, and APIs that power the functional side of applications and manage data flow.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "high",
+      "popularityScore": 92,
+      "futureScope": "excellent",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "7-30 LPA", "min": 7, "max": 30, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E / MCA",
+      "recommendedCourses": ["science_11_12", "course_be_cse", "course_btech_it", "course_mca"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["node_js", "python", "java", "sql_nosql_databases", "system_architecture", "api_development", "cloud_services"],
+      "soft": ["logical_reasoning", "problem_solving", "security_mindset"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_backend_developer", "associate_software_engineer", "backend_intern"],
+      "growthRoles": ["senior_backend_engineer", "systems_architect", "tech_lead", "cto"]
+    },
+    "hiring": {
+      "entryMethods": ["hackathons", "referrals", "campus_placements", "coding_challenges"],
+      "topCompanies": ["Uber", "Amazon", "Oracle", "Paytm", "Netflix"]
+    },
+    "industrySectors": ["fintech", "banking", "big_data", "enterprise_software"],
+    "tags": ["server_side", "database", "backend", "scalability", "api"],
+    "matching": {
+      "primaryCourses": ["course_be_cse", "course_btech_it"],
+      "secondaryCourses": ["course_mca", "backend_specialization"],
+      "relatedDomains": ["devops", "database_administration", "cloud_engineering"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_full_stack_developer",
+    "slug": "full-stack-developer",
+    "title": "Full Stack Developer",
+    "domain": "Software",
+    "category": "software_development",
+    "description": "Handles both frontend and backend development, managing the entire lifecycle of a web application from UI to database.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "very_high",
+      "popularityScore": 97,
+      "futureScope": "excellent",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "8-40 LPA", "min": 8, "max": 40, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E / BCA / MCA",
+      "recommendedCourses": ["science_11_12", "course_be_cse", "course_btech_it", "course_bca", "course_mca"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["javascript_ecosystem", "mern_mean_stack", "devops_basics", "git", "database_management", "web_security"],
+      "soft": ["multitasking", "adaptability", "project_management"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_full_stack_developer", "graduate_engineer_trainee"],
+      "growthRoles": ["senior_full_stack_developer", "solution_architect", "product_manager", "cto"]
+    },
+    "hiring": {
+      "entryMethods": ["startup_hiring", "hackathons", "internships", "off_campus"],
+      "topCompanies": ["Hotstar", "CRED", "Airbnb", "Microsoft", "Stripe"]
+    },
+    "industrySectors": ["startups", "product_based", "saas", "fintech"],
+    "tags": ["versatile", "all_rounder", "mern", "startup_ready", "fullstack"],
+    "matching": {
+      "primaryCourses": ["course_be_cse", "course_btech_it"],
+      "secondaryCourses": ["course_bca", "course_mca"],
+      "relatedDomains": ["product_management", "entrepreneurship"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_ai_engineer",
+    "slug": "ai-engineer",
+    "title": "AI Engineer",
+    "domain": "Software",
+    "category": "artificial_intelligence",
+    "description": "Develops and deploys intelligent algorithms and models, including Machine Learning and Generative AI, to solve complex problems.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "explosive",
+      "popularityScore": 99,
+      "futureScope": "excellent",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "12-50 LPA", "min": 12, "max": 50, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / M.Tech / PhD",
+      "recommendedCourses": ["science_11_12", "course_be_cse_ai_ml", "course_mtech_ai", "course_data_science"],
+      "preferredLevels": ["ug", "pg", "doctorate"]
+    },
+    "skills": {
+      "technical": ["python", "pytorch_tensorflow", "nlp", "computer_vision", "mathematics_statistics", "generative_ai_models"],
+      "soft": ["analytical_thinking", "research_orientation", "ethics"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_ai_engineer", "ml_intern", "data_scientist_associate"],
+      "growthRoles": ["senior_ai_researcher", "lead_data_scientist", "head_of_ai", "chief_ai_officer"]
+    },
+    "hiring": {
+      "entryMethods": ["research_internships", "kaggle_competitions", "campus_placements", "ai_hackathons"],
+      "topCompanies": ["NVIDIA", "OpenAI", "Google DeepMind", "Adobe", "Intel"]
+    },
+    "industrySectors": ["tech_giants", "healthcare", "automotive", "research_labs"],
+    "tags": ["intelligence", "machine_learning", "future_tech", "data_driven", "automation"],
+    "matching": {
+      "primaryCourses": ["course_be_cse_ai_ml", "course_mtech_ai"],
+      "secondaryCourses": ["course_btech_it", "course_mca"],
+      "relatedDomains": ["data_science", "robotics", "blockchain"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_cybersecurity_analyst",
+    "slug": "cybersecurity-analyst",
+    "title": "Cybersecurity Analyst",
+    "domain": "Software",
+    "category": "information_security",
+    "description": "Protects an organization's computer networks and systems by monitoring for security breaches and implementing defensive measures.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "high",
+      "popularityScore": 88,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "6-22 LPA", "min": 6, "max": 22, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / BCA / B.Sc (Cybersecurity)",
+      "recommendedCourses": ["science_11_12", "course_be_cse", "course_btech_it", "ceh_certification"],
+      "preferredLevels": ["ug"]
+    },
+    "skills": {
+      "technical": ["network_security", "ethical_hacking", "incident_response", "cryptography", "cloud_security", "vulnerability_assessment"],
+      "soft": ["attention_to_detail", "critical_thinking", "integrity"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_security_analyst", "soc_analyst_l1", "security_intern"],
+      "growthRoles": ["ethical_hacker", "security_architect", "ciso", "security_consultant"]
+    },
+    "hiring": {
+      "entryMethods": ["certifications", "bug_bounty_programs", "campus_placements", "defense_hiring"],
+      "topCompanies": ["PwC", "Cisco", "CrowdStrike", "IBM", "Accenture"]
+    },
+    "industrySectors": ["banking", "government", "defense", "it_services"],
+    "tags": ["protection", "ethical_hacking", "privacy", "defense", "networking"],
+    "matching": {
+      "primaryCourses": ["course_be_cse", "course_btech_it"],
+      "secondaryCourses": ["course_bca", "specialized_security_diploma"],
+      "relatedDomains": ["cloud_security", "blockchain_security", "forensics"]
+    },
+    "featured": true
+  },
+  
+  {
+    "_id": "job_mechanical_engineer",
+    "slug": "mechanical-engineer",
+    "title": "Mechanical Engineer",
+    "domain": "Engineering",
+    "category": "core_engineering",
+    "description": "Designs, analyzes, and manufactures mechanical systems, machinery, and thermal devices ranging from small components to large industrial plants.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "steady",
+      "popularityScore": 90,
+      "futureScope": "good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "4-18 LPA", "min": 4, "max": 18, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E in Mechanical",
+      "recommendedCourses": ["science_11_12", "course_be_mechanical", "course_btech_production"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["thermodynamics", "cad_cam", "solidworks", "fluid_mechanics", "manufacturing_processes", "robotics_basics"],
+      "soft": ["analytical_thinking", "attention_to_detail", "team_management"]
+    },
+    "careerPath": {
+      "entryRoles": ["graduate_engineer_trainee", "junior_mechanical_engineer", "design_engineer_intern"],
+      "growthRoles": ["senior_design_engineer", "production_manager", "plant_head", "operations_director"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_placements", "gate_exam", "psu_recruitment", "industrial_internships"],
+      "topCompanies": ["Tata Motors", "L&T", "Mahindra", "BHEL", "Reliance Industries"]
+    },
+    "industrySectors": ["manufacturing", "automotive", "aerospace", "energy", "construction"],
+    "tags": ["machinery", "design", "manufacturing", "core_job", "heavy_industry"],
+    "matching": {
+      "primaryCourses": ["course_be_mechanical"],
+      "secondaryCourses": ["course_mtech_thermal", "diploma_mechanical"],
+      "relatedDomains": ["robotics", "automobile", "aerospace"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_civil_engineer",
+    "slug": "civil-engineer",
+    "title": "Civil Engineer",
+    "domain": "Engineering",
+    "category": "infrastructure",
+    "description": "Plans, designs, and oversees construction and maintenance of building structures and infrastructure like roads, bridges, and water systems.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "high",
+      "popularityScore": 92,
+      "futureScope": "excellent",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "4.5-20 LPA", "min": 4.5, "max": 20, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E in Civil",
+      "recommendedCourses": ["science_11_12", "course_be_civil", "course_btech_structural"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["autocad", "structural_analysis", "project_management", "surveying", "bim_modeling", "estimation_costing"],
+      "soft": ["leadership", "problem_solving", "site_management"]
+    },
+    "careerPath": {
+      "entryRoles": ["site_engineer", "junior_planner", "assistant_surveyor"],
+      "growthRoles": ["project_manager", "structural_designer", "chief_engineer", "real_estate_head"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_hiring", "ssc_je_exam", "ies_upsc", "direct_site_recruitment"],
+      "topCompanies": ["L&T Construction", "Tata Projects", "Shapoorji Pallonji", "DLF", "NHAI"]
+    },
+    "industrySectors": ["real_estate", "infrastructure", "government_pwd", "urban_planning"],
+    "tags": ["construction", "infrastructure", "building", "smart_cities", "field_work"],
+    "matching": {
+      "primaryCourses": ["course_be_civil"],
+      "secondaryCourses": ["course_mtech_structural", "nicmar_courses"],
+      "relatedDomains": ["architecture", "environmental_engineering"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_electrical_engineer",
+    "slug": "electrical-engineer",
+    "title": "Electrical Engineer",
+    "domain": "Engineering",
+    "category": "core_engineering",
+    "description": "Deals with the study, design, and application of equipment and systems which use electricity, electronics, and electromagnetism.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "high",
+      "popularityScore": 89,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "5-22 LPA", "min": 5, "max": 22, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E in Electrical",
+      "recommendedCourses": ["science_11_12", "course_be_electrical", "course_btech_eee"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["power_systems", "circuit_design", "matlab", "renewable_energy", "control_systems", "plc_scada"],
+      "soft": ["logical_reasoning", "precision", "safety_conscious"]
+    },
+    "careerPath": {
+      "entryRoles": ["electrical_trainee", "maintenance_engineer", "design_engineer"],
+      "growthRoles": ["senior_electrical_consultant", "grid_manager", "chief_technical_officer"]
+    },
+    "hiring": {
+      "entryMethods": ["gate_exam", "campus_placements", "psu_selection", "technical_internships"],
+      "topCompanies": ["ABB", "Siemens", "PowerGrid", "NTPC", "Schneider Electric"]
+    },
+    "industrySectors": ["power_generation", "renewable_energy", "manufacturing", "ev_industry"],
+    "tags": ["electricity", "power_grid", "energy", "circuits", "automation"],
+    "matching": {
+      "primaryCourses": ["course_be_electrical"],
+      "secondaryCourses": ["course_be_eee", "mtech_power_electronics"],
+      "relatedDomains": ["electronics", "automation", "renewable_energy"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_electronics_engineer",
+    "slug": "electronics-engineer",
+    "title": "Electronics Engineer",
+    "domain": "Engineering",
+    "category": "electronics_hardware",
+    "description": "Designs and develops electronic equipment, such as broadcast and communications systems, ranging from portable players to GPS systems.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "very_high",
+      "popularityScore": 91,
+      "futureScope": "excellent",
+      "workModes": ["hybrid", "onsite"]
+    },
+    "salary": { "average": "6-25 LPA", "min": 6, "max": 25, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E in ECE",
+      "recommendedCourses": ["science_11_12", "course_be_ece", "course_btech_electronics"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["vlsi_design", "embedded_systems", "pcb_design", "microcontrollers", "signal_processing", "verilog_vhdl"],
+      "soft": ["innovative_thinking", "analytical_skills", "collaboration"]
+    },
+    "careerPath": {
+      "entryRoles": ["embedded_engineer_trainee", "hardware_design_intern", "vlsi_fresher"],
+      "growthRoles": ["senior_hardware_architect", "vlsi_lead", "r_d_head", "product_director"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_hiring", "internships", "technical_hackathons", "referrals"],
+      "topCompanies": ["Intel", "Qualcomm", "Samsung Electronics", "Texas Instruments", "Apple"]
+    },
+    "industrySectors": ["semiconductors", "telecommunications", "consumer_electronics", "defense"],
+    "tags": ["chips", "circuits", "hardware", "semiconductor", "innovation"],
+    "matching": {
+      "primaryCourses": ["course_be_ece"],
+      "secondaryCourses": ["mtech_vlsi", "mtech_embedded_systems"],
+      "relatedDomains": ["iot", "robotics", "telecommunications"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_robotics_engineer",
+    "slug": "robotics-engineer",
+    "title": "Robotics Engineer",
+    "domain": "Engineering",
+    "category": "automation_ai",
+    "description": "Combines mechanical, electrical, and software engineering to design, build, and program robots and robotic systems for various applications.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "explosive",
+      "popularityScore": 94,
+      "futureScope": "excellent",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "8-35 LPA", "min": 8, "max": 35, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / M.Tech in Robotics/Mechatronics",
+      "recommendedCourses": ["science_11_12", "course_be_robotics", "course_be_mechatronics", "course_mtech_robotics"],
+      "preferredLevels": ["ug", "pg", "doctorate"]
+    },
+    "skills": {
+      "technical": ["ros_robot_os", "python_cpp", "kinematics", "computer_vision", "sensor_integration", "ai_ml_integration"],
+      "soft": ["creativity", "complex_problem_solving", "interdisciplinary_sync"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_robotics_engineer", "automation_intern", "control_systems_trainee"],
+      "growthRoles": ["robotics_architect", "lead_automation_engineer", "head_of_robotics", "cto"]
+    },
+    "hiring": {
+      "entryMethods": ["research_labs", "specialized_hiring", "startups", "global_competitions"],
+      "topCompanies": ["Tesla", "Boston Dynamics", "Fanuc", "GreyOrange", "Hi-Tech Robotics"]
+    },
+    "industrySectors": ["manufacturing", "healthcare", "defense", "e_commerce_logistics"],
+    "tags": ["robots", "automation", "mechatronics", "ai", "future_tech"],
+    "matching": {
+      "primaryCourses": ["course_be_robotics", "course_be_mechatronics"],
+      "secondaryCourses": ["course_be_cse", "mtech_ai"],
+      "relatedDomains": ["ai", "mechanical_engineering", "electronics"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_automobile_engineer",
+    "slug": "automobile-engineer",
+    "title": "Automobile Engineer",
+    "domain": "Engineering",
+    "category": "automotive",
+    "description": "Focuses on the design, development, production, and testing of cars, trucks, motorcycles, and other vehicles, including EV technology.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "high",
+      "popularityScore": 88,
+      "futureScope": "excellent",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "6-28 LPA", "min": 6, "max": 28, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E in Automobile/Mechanical",
+      "recommendedCourses": ["science_11_12", "course_be_automobile", "course_be_mechanical"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["vehicle_dynamics", "ev_powertrain", "ansys_matlab", "engine_design", "battery_management_systems", "catia"],
+      "soft": ["analytical_mindset", "project_coordination", "safety_focus"]
+    },
+    "careerPath": {
+      "entryRoles": ["automotive_trainee", "design_engineer_fresher", "testing_engineer"],
+      "growthRoles": ["vehicle_architect", "ev_specialist", "plant_director", "chief_engineer"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_placements", "off_campus_drives", "internships", "design_challenges"],
+      "topCompanies": ["Mercedes-Benz", "Hyundai", "Tesla India", "Ola Electric", "Maruti Suzuki"]
+    },
+    "industrySectors": ["automotive_mfg", "ev_startups", "transportation", "r_d_centers"],
+    "tags": ["cars", "ev", "mobility", "engines", "transport"],
+    "matching": {
+      "primaryCourses": ["course_be_automobile"],
+      "secondaryCourses": ["course_be_mechanical", "mtech_automotive"],
+      "relatedDomains": ["mechanical_engineering", "electronics", "robotics"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_doctor",
+    "slug": "doctor",
+    "title": "Doctor",
+    "domain": "Medical",
+    "category": "healthcare_services",
+    "description": "Diagnoses, treats, and manages patient illnesses and injuries through medical examinations, surgeries, and prescriptions.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "very_high",
+      "popularityScore": 99,
+      "futureScope": "excellent",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "10-50 LPA", "min": 10, "max": 50, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "MBBS",
+      "recommendedCourses": ["science_pcb_11_12", "course_mbbs", "course_md", "course_ms"],
+      "preferredLevels": ["ug", "pg", "doctorate"]
+    },
+    "skills": {
+      "technical": ["clinical_diagnosis", "surgical_procedures", "pharmacology", "patient_care", "medical_ethics", "emergency_medicine"],
+      "soft": ["empathy", "decision_making", "resilience"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_resident", "medical_officer", "intern_doctor"],
+      "growthRoles": ["specialist_consultant", "senior_surgeon", "medical_director", "hospital_administrator"]
+    },
+    "hiring": {
+      "entryMethods": ["neet_pg", "upsc_cms", "hospital_interviews", "private_practice"],
+      "topCompanies": ["Apollo Hospitals", "AIIMS", "Fortis Healthcare", "Max Healthcare", "Government_Hospitals"]
+    },
+    "industrySectors": ["healthcare", "public_health", "telemedicine", "medical_research"],
+    "tags": ["healthcare", "medicine", "saving_lives", "surgeon", "clinical"],
+    "matching": {
+      "primaryCourses": ["course_mbbs"],
+      "secondaryCourses": ["course_md", "course_ms"],
+      "relatedDomains": ["surgery", "radiology", "pediatrics"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_pharmacist",
+    "slug": "pharmacist",
+    "title": "Pharmacist",
+    "domain": "Medical",
+    "category": "pharmaceuticals",
+    "description": "Expert in medicines who dispenses prescriptions, advises on drug interactions, and ensures safe medication management.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "high",
+      "popularityScore": 85,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "3-12 LPA", "min": 3, "max": 12, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Pharm",
+      "recommendedCourses": ["science_pcb_11_12", "course_b_pharm", "course_d_pharm", "course_m_pharm"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["drug_formulation", "pharmacovigilance", "inventory_management", "clinical_pharmacy", "regulatory_compliance"],
+      "soft": ["attention_to_detail", "communication", "ethical_judgment"]
+    },
+    "careerPath": {
+      "entryRoles": ["retail_pharmacist", "hospital_pharmacist_trainee", "quality_control_associate"],
+      "growthRoles": ["pharmacy_manager", "drug_inspector", "clinical_research_associate", "production_head"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_placements", "government_exams", "retail_hiring", "licensing_exams"],
+      "topCompanies": ["Sun Pharma", "Cipla", "Dr. Reddy's", "Apollo Pharmacy", "MedPlus"]
+    },
+    "industrySectors": ["pharmaceutical_mfg", "retail_healthcare", "clinical_research", "quality_assurance"],
+    "tags": ["medicine", "pharma", "drugs", "healthcare_retail", "chemistry"],
+    "matching": {
+      "primaryCourses": ["course_b_pharm"],
+      "secondaryCourses": ["course_m_pharm", "course_d_pharm"],
+      "relatedDomains": ["pharmacology", "toxicology", "clinical_trials"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_nurse",
+    "slug": "nurse",
+    "title": "Nurse",
+    "domain": "Medical",
+    "category": "healthcare_services",
+    "description": "Provides hands-on patient care, monitors health status, administers medications, and assists doctors in clinical settings.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "very_high",
+      "popularityScore": 90,
+      "futureScope": "excellent",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "3.5-15 LPA", "min": 3.5, "max": 15, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Sc Nursing / GNM",
+      "recommendedCourses": ["science_pcb_11_12", "course_bsc_nursing", "course_gnm", "course_msc_nursing"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["patient_monitoring", "wound_care", "icu_management", "iv_therapy", "emergency_response", "medical_record_keeping"],
+      "soft": ["patience", "physical_stamina", "empathy"]
+    },
+    "careerPath": {
+      "entryRoles": ["staff_nurse", "junior_nurse", "home_care_nurse"],
+      "growthRoles": ["nurse_supervisor", "clinical_nurse_specialist", "nursing_superintendent", "chief_nursing_officer"]
+    },
+    "hiring": {
+      "entryMethods": ["hospital_recruitment", "government_staff_nurse_exams", "overseas_placement_exams"],
+      "topCompanies": ["Medanta", "Manipal Hospitals", "Aster DM Healthcare", "NHS", "Columbia Asia"]
+    },
+    "industrySectors": ["hospitals", "home_healthcare", "military_nursing", "occupational_health"],
+    "tags": ["caregiving", "patient_care", "clinical", "vital_service", "healthcare"],
+    "matching": {
+      "primaryCourses": ["course_bsc_nursing"],
+      "secondaryCourses": ["course_gnm", "course_msc_nursing"],
+      "relatedDomains": ["public_health", "midwifery", "critical_care"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_physiotherapist",
+    "slug": "physiotherapist",
+    "title": "Physiotherapist",
+    "domain": "Medical",
+    "category": "rehabilitation",
+    "description": "Helps patients recover physical movement and function lost due to injury, illness, or disability through exercise and manual therapy.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "high",
+      "popularityScore": 82,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "home_visit"]
+    },
+    "salary": { "average": "4-18 LPA", "min": 4, "max": 18, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "BPT (Bachelor of Physiotherapy)",
+      "recommendedCourses": ["science_pcb_11_12", "course_bpt", "course_mpt"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["kinesiology", "manual_therapy", "electrotherapy", "sports_rehabilitation", "orthopedic_assessment", "post_op_recovery"],
+      "soft": ["motivational_skills", "observation", "physical_endurance"]
+    },
+    "careerPath": {
+      "entryRoles": ["assistant_physiotherapist", "sports_trainee", "clinical_physio"],
+      "growthRoles": ["senior_physiotherapist", "sports_medicine_consultant", "rehab_center_director", "private_clinic_owner"]
+    },
+    "hiring": {
+      "entryMethods": ["hospital_hiring", "sports_academy_recruitment", "fitness_centers", "freelancing"],
+      "topCompanies": ["Portea Medical", "VLCC", "Sports Authority of India", "Narayana Health", "Qi Spine Clinic"]
+    },
+    "industrySectors": ["rehabilitation", "sports", "geriatric_care", "fitness_wellness"],
+    "tags": ["rehab", "physical_therapy", "sports_medicine", "recovery", "movement"],
+    "matching": {
+      "primaryCourses": ["course_bpt"],
+      "secondaryCourses": ["course_mpt"],
+      "relatedDomains": ["orthopedics", "sports_science", "occupational_therapy"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_lab_technician",
+    "slug": "lab-technician",
+    "title": "Lab Technician",
+    "domain": "Medical",
+    "category": "diagnostics",
+    "description": "Performs laboratory tests on blood, tissue, and fluids to help physicians diagnose and treat diseases.",
+    "overview": {
+      "difficultyLevel": "medium",
+      "demandTrend": "high",
+      "popularityScore": 78,
+      "futureScope": "good",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "2.5-8 LPA", "min": 2.5, "max": 8, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "DMLT / B.Sc MLT",
+      "recommendedCourses": ["science_pcb_11_12", "course_dmlt", "course_bsc_mlt"],
+      "preferredLevels": ["diploma", "ug"]
+    },
+    "skills": {
+      "technical": ["pathology", "biochemistry", "hematology", "microbiology", "sample_collection", "equipment_calibration"],
+      "soft": ["precision", "analytical_skills", "integrity"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_technician", "phlebotomist", "lab_assistant"],
+      "growthRoles": ["lab_supervisor", "quality_manager", "technical_manager", "diagnostics_head"]
+    },
+    "hiring": {
+      "entryMethods": ["lab_interviews", "government_lab_exams", "diagnostic_center_hiring"],
+      "topCompanies": ["Dr Lal PathLabs", "Metropolis Healthcare", "Thyrocare", "SRL Diagnostics"]
+    },
+    "industrySectors": ["diagnostics", "pathology_labs", "hospitals", "clinical_research"],
+    "tags": ["testing", "pathology", "diagnosis", "laboratory", "medical_data"],
+    "matching": {
+      "primaryCourses": ["course_bsc_mlt"],
+      "secondaryCourses": ["course_dmlt"],
+      "relatedDomains": ["biotechnology", "microbiology", "genetics"]
+    },
+    "featured": false
+  },
+  {
+    "_id": "job_radiologist",
+    "slug": "radiologist",
+    "title": "Radiologist",
+    "domain": "Medical",
+    "category": "diagnostics",
+    "description": "A medical doctor specializing in interpreting medical images like X-rays, CT scans, and MRIs to diagnose and treat conditions.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "very_high",
+      "popularityScore": 95,
+      "futureScope": "excellent",
+      "workModes": ["onsite", "remote_teleradiology"]
+    },
+    "salary": { "average": "15-60 LPA", "min": 15, "max": 60, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "MBBS + MD/DNB Radiology",
+      "recommendedCourses": ["science_pcb_11_12", "course_mbbs", "course_md_radiology"],
+      "preferredLevels": ["pg"]
+    },
+    "skills": {
+      "technical": ["mri_interpretation", "ct_scan_analysis", "ultrasound", "nuclear_medicine", "interventional_radiology", "dicom_software"],
+      "soft": ["analytical_precision", "visual_acuity", "attention_to_detail"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_radiologist", "resident_radiology"],
+      "growthRoles": ["consultant_radiologist", "interventional_radiologist", "head_of_imaging", "diagnostics_director"]
+    },
+    "hiring": {
+      "entryMethods": ["neet_pg_specialization", "hospital_panels", "diagnostic_chains", "teleradiology_firms"],
+      "topCompanies": ["Mahajan Imaging", "Medall", "Aster Medical", "AIIMS", "Private_Hospitals"]
+    },
+    "industrySectors": ["imaging_centers", "tertiary_healthcare", "medical_tech", "teleradiology"],
+    "tags": ["imaging", "xray", "mri", "high_paying", "expert_diagnosis"],
+    "matching": {
+      "primaryCourses": ["course_md_radiology"],
+      "secondaryCourses": ["course_mbbs", "dm_neuroradiology"],
+      "relatedDomains": ["oncology", "neurology", "nuclear_medicine"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_army_officer",
+    "slug": "army-officer",
+    "title": "Indian Army Officer",
+    "domain": "Defence",
+    "category": "armed_forces",
+    "description": "Leads troops in combat, tactical operations, and peace-time missions while managing personnel and advanced land-based weaponry systems.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "steady",
+      "popularityScore": 98,
+      "futureScope": "excellent",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "10-25 LPA", "min": 10, "max": 25, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "12th Pass (via NDA) / Graduate (via CDS)",
+      "recommendedCourses": ["science_11_12", "any_stream_12", "course_be_btech", "graduation_any_stream"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["tactical_warfare", "weaponry_handling", "navigation", "map_reading", "survival_skills", "crisis_management"],
+      "soft": ["leadership", "discipline", "courage", "decision_making"]
+    },
+    "careerPath": {
+      "entryRoles": ["lieutenant", "cadet_trainee"],
+      "growthRoles": ["captain", "major", "colonel", "brigadier", "general"]
+    },
+    "hiring": {
+      "entryMethods": ["nda_exam", "cds_exam", "tes_entry", "ssb_interview"],
+      "topCompanies": ["Indian_Army"]
+    },
+    "industrySectors": ["national_security", "combat_operations", "peacekeeping"],
+    "tags": ["patriotism", "leadership", "combat", "honor", "government_service"],
+    "matching": {
+      "primaryCourses": ["course_nda", "course_cds"],
+      "secondaryCourses": ["course_btech_tes"],
+      "relatedDomains": ["security", "logistics", "strategy"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_naval_officer",
+    "slug": "naval-officer",
+    "title": "Indian Navy Officer",
+    "domain": "Defence",
+    "category": "armed_forces",
+    "description": "Commands naval ships, submarines, or aircraft to protect maritime borders and conduct deep-sea strategic operations.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "high",
+      "popularityScore": 94,
+      "futureScope": "excellent",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "10-24 LPA", "min": 10, "max": 24, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "12th with PCM (via NDA/B.Tech Entry)",
+      "recommendedCourses": ["science_pcm_11_12", "course_be_mechanical", "course_be_ece", "course_be_naval_arch"],
+      "preferredLevels": ["ug"]
+    },
+    "skills": {
+      "technical": ["navigation_seamanship", "naval_architecture", "radar_systems", "underwater_warfare", "marine_engineering"],
+      "soft": ["adaptability", "team_coordination", "spatial_awareness"]
+    },
+    "careerPath": {
+      "entryRoles": ["sub_lieutenant", "naval_cadet"],
+      "growthRoles": ["lieutenant_commander", "commander", "captain_navy", "admiral"]
+    },
+    "hiring": {
+      "entryMethods": ["nda_exam", "cds_exam", "10_plus_2_btech_entry", "inet_exam"],
+      "topCompanies": ["Indian_Navy"]
+    },
+    "industrySectors": ["maritime_defense", "ocean_surveillance", "naval_engineering"],
+    "tags": ["maritime", "navy", "sea_exploration", "technology", "defense"],
+    "matching": {
+      "primaryCourses": ["course_be_naval_tech"],
+      "secondaryCourses": ["science_pcm_12"],
+      "relatedDomains": ["marine_engineering", "logistics"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_air_force_pilot",
+    "slug": "air-force-pilot",
+    "title": "Air Force Pilot",
+    "domain": "Defence",
+    "category": "aviation",
+    "description": "Operates fighter jets, transport aircraft, or helicopters for combat, surveillance, and rescue missions in the Indian Air Force.",
+    "overview": {
+      "difficultyLevel": "extremely_hard",
+      "demandTrend": "very_high",
+      "popularityScore": 99,
+      "futureScope": "excellent",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "12-30 LPA", "min": 12, "max": 30, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "12th with Physics & Maths (via NDA) / Graduate",
+      "recommendedCourses": ["science_pcm_11_12", "course_be_cse", "course_be_aeronautical", "graduation_with_math_phys"],
+      "preferredLevels": ["ug"]
+    },
+    "skills": {
+      "technical": ["flight_dynamics", "aerial_combat", "avionics", "meteorology", "navigation_systems", "emergency_maneuvering"],
+      "soft": ["quick_reflexes", "situational_awareness", "mental_toughness"]
+    },
+    "careerPath": {
+      "entryRoles": ["flying_officer", "flight_cadet"],
+      "growthRoles": ["flight_lieutenant", "squadron_leader", "wing_commander", "air_marshal"]
+    },
+    "hiring": {
+      "entryMethods": ["nda_exam", "afcat_exam", "ncc_special_entry", "cds_exam"],
+      "topCompanies": ["Indian_Air_Force"]
+    },
+    "industrySectors": ["aerospace_defense", "aviation", "surveillance"],
+    "tags": ["aviation", "fighter_jet", "flying", "iaf", "adventure"],
+    "matching": {
+      "primaryCourses": ["course_nda_flying"],
+      "secondaryCourses": ["course_afcat"],
+      "relatedDomains": ["aerospace_engineering", "meteorology"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_defence_research_scientist",
+    "slug": "defence-scientist",
+    "title": "Defence Research Scientist",
+    "domain": "Defence",
+    "category": "research_development",
+    "description": "Conducts high-level research to design and develop indigenous missile systems, electronic warfare tools, and military hardware for DRDO.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "high",
+      "popularityScore": 88,
+      "futureScope": "excellent",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "9-28 LPA", "min": 9, "max": 28, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.E / B.Tech / Post Graduation in Science",
+      "recommendedCourses": ["course_be_cse", "course_be_ece", "course_be_aerospace", "msc_physics", "mtech_ai"],
+      "preferredLevels": ["pg", "doctorate"]
+    },
+    "skills": {
+      "technical": ["missile_technology", "embedded_systems", "ai_ml", "aerodynamics", "cryptography", "material_science"],
+      "soft": ["analytical_skills", "innovation", "patience"]
+    },
+    "careerPath": {
+      "entryRoles": ["scientist_b", "junior_research_fellow"],
+      "growthRoles": ["scientist_c_to_h", "project_director", "distinguished_scientist", "dg_drdo"]
+    },
+    "hiring": {
+      "entryMethods": ["gate_score", "set_exam_drdo", "campus_hiring_iits", "direct_interview"],
+      "topCompanies": ["DRDO", "ISRO", "BEL", "HAL"]
+    },
+    "industrySectors": ["r_d", "aerospace", "electronics_manufacturing"],
+    "tags": ["research", "missiles", "technology", "innovation", "scientist"],
+    "matching": {
+      "primaryCourses": ["course_mtech_specialized"],
+      "secondaryCourses": ["course_be_cse"],
+      "relatedDomains": ["ai", "robotics", "electronics"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_coast_guard_officer",
+    "slug": "coast-guard-officer",
+    "title": "Coast Guard Officer",
+    "domain": "Defence",
+    "category": "maritime_security",
+    "description": "Protects India's maritime interests, prevents smuggling, ensures safety of fishermen, and preserves the marine environment.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "high",
+      "popularityScore": 82,
+      "futureScope": "very_good",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "7-20 LPA", "min": 7, "max": 20, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "Bachelor's Degree with Maths & Physics at 10+2",
+      "recommendedCourses": ["science_pcm_11_12", "graduation_any_stream", "course_be_mechanical", "course_be_ece"],
+      "preferredLevels": ["ug"]
+    },
+    "skills": {
+      "technical": ["maritime_law", "search_and_rescue", "coastal_surveillance", "vessel_management", "pollution_control"],
+      "soft": ["public_safety_focus", "teamwork", "vigilance"]
+    },
+    "careerPath": {
+      "entryRoles": ["assistant_commandant", "yantrik", "navik"],
+      "growthRoles": ["deputy_commandant", "commandant", "dig_coast_guard", "director_general"]
+    },
+    "hiring": {
+      "entryMethods": ["icg_recruitment_test", "psb_interview", "fsb_interview"],
+      "topCompanies": ["Indian_Coast_Guard"]
+    },
+    "industrySectors": ["maritime_law_enforcement", "environmental_protection"],
+    "tags": ["coastal_security", "rescue", "marine_life", "vigilance", "honor"],
+    "matching": {
+      "primaryCourses": ["graduation_with_pcm"],
+      "secondaryCourses": ["course_be_electrical"],
+      "relatedDomains": ["law", "marine_engineering"]
+    },
+    "featured": false
+  },
+  {
+    "_id": "job_military_nursing_officer",
+    "slug": "military-nursing-officer",
+    "title": "Military Nursing Officer",
+    "domain": "Defence",
+    "category": "medical_healthcare",
+    "description": "Provides medical care and nursing services to soldiers and their families in military hospitals during peace and war.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "very_high",
+      "popularityScore": 85,
+      "futureScope": "excellent",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "7-18 LPA", "min": 7, "max": 18, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Sc Nursing",
+      "recommendedCourses": ["science_pcb_11_12", "course_bsc_nursing", "course_msc_nursing"],
+      "preferredLevels": ["ug"]
+    },
+    "skills": {
+      "technical": ["clinical_nursing", "emergency_trauma_care", "surgical_assistance", "patient_rehabilitation", "military_etiquette"],
+      "soft": ["empathy", "stamina", "discipline"]
+    },
+    "careerPath": {
+      "entryRoles": ["lieutenant_nurse"],
+      "growthRoles": ["captain_nurse", "major_nurse", "colonel_nurse", "major_general_mns"]
+    },
+    "hiring": {
+      "entryMethods": ["mns_entrance_exam", "interview_medical_board"],
+      "topCompanies": ["Armed_Forces_Medical_Services"]
+    },
+    "industrySectors": ["healthcare", "defence_medical"],
+    "tags": ["nursing", "healthcare", "service", "uniformed_medical", "care"],
+    "matching": {
+      "primaryCourses": ["course_bsc_nursing"],
+      "secondaryCourses": ["course_msc_nursing"],
+      "relatedDomains": ["medical", "public_health"]
+    },
+    "featured": false
+  },
+  {
+    "_id": "job_data_scientist",
+    "slug": "data-scientist",
+    "title": "Data Scientist",
+    "domain": "Science",
+    "category": "data_analytics",
+    "description": "Extracts meaningful insights from large datasets using statistics, machine learning, and programming to drive business decision-making.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "very_high",
+      "popularityScore": 98,
+      "futureScope": "excellent",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "10-28 LPA", "min": 10, "max": 28, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / B.E / M.Sc in Statistics or CS",
+      "recommendedCourses": ["science_11_12", "course_be_cse", "course_msc_statistics", "course_data_science_pg"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["python_r", "sql", "machine_learning", "data_visualization", "statistics", "big_data_tools"],
+      "soft": ["analytical_thinking", "storytelling", "problem_solving"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_data_scientist", "data_analyst", "associate_data_scientist"],
+      "growthRoles": ["senior_data_scientist", "lead_data_scientist", "head_of_analytics", "cdp"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_placements", "kaggle_portfolios", "internships", "off_campus"],
+      "topCompanies": ["Fractal Analytics", "Mu Sigma", "Amazon", "IBM", "Walmart Global Tech"]
+    },
+    "industrySectors": ["it_services", "fintech", "e_commerce", "healthcare", "consulting"],
+    "tags": ["data", "insights", "machine_learning", "analysis", "prediction"],
+    "matching": {
+      "primaryCourses": ["course_be_cse", "course_msc_statistics"],
+      "secondaryCourses": ["course_bca", "course_mca"],
+      "relatedDomains": ["ai", "business_intelligence", "data_engineering"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_research_scientist",
+    "slug": "research-scientist",
+    "title": "Research Scientist",
+    "domain": "Science",
+    "category": "r_d",
+    "description": "Conducts systematic experiments and research to discover new knowledge, develop new products, or improve existing technologies.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "steady",
+      "popularityScore": 85,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "8-30 LPA", "min": 8, "max": 30, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "M.Sc / M.Tech / PhD",
+      "recommendedCourses": ["science_11_12", "course_mtech_research", "course_phd_specialization"],
+      "preferredLevels": ["pg", "doctorate"]
+    },
+    "skills": {
+      "technical": ["research_methodology", "data_analysis", "scientific_writing", "experiment_design", "laboratory_techniques"],
+      "soft": ["patience", "critical_thinking", "intellectual_curiosity"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_research_fellow", "research_associate", "lab_assistant"],
+      "growthRoles": ["senior_scientist", "principal_investigator", "director_of_r_d", "chief_scientist"]
+    },
+    "hiring": {
+      "entryMethods": ["gate_net_exams", "research_internships", "university_placements", "phd_recruitment"],
+      "topCompanies": ["CSIR", "ISRO", "Biocon", "Reliance_Life_Sciences", "Tata_Chemicals"]
+    },
+    "industrySectors": ["biotechnology", "pharmaceuticals", "government_research", "academia"],
+    "tags": ["research", "innovation", "discovery", "laboratory", "experiment"],
+    "matching": {
+      "primaryCourses": ["course_phd_specialization"],
+      "secondaryCourses": ["course_mtech"],
+      "relatedDomains": ["biotechnology", "physics", "chemistry"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_biotechnologist",
+    "slug": "biotechnologist",
+    "title": "Biotechnologist",
+    "domain": "Science",
+    "category": "life_sciences",
+    "description": "Uses biological organisms and systems to develop technologies and products for healthcare, agriculture, and environment.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "high",
+      "popularityScore": 88,
+      "futureScope": "excellent",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "5-18 LPA", "min": 5, "max": 18, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Tech / M.Sc in Biotechnology",
+      "recommendedCourses": ["science_pcb_11_12", "course_be_biotech", "course_msc_biotech"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["molecular_biology", "genetic_engineering", "bioprocess_engineering", "bioinformatics", "cell_culture"],
+      "soft": ["precision", "analytical_thinking", "collaboration"]
+    },
+    "careerPath": {
+      "entryRoles": ["graduate_trainee", "associate_biotechnologist", "qc_analyst"],
+      "growthRoles": ["senior_biotechnologist", "r_d_manager", "technical_director", "entrepreneur"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_hiring", "internships", "gate_biotech", "direct_application"],
+      "topCompanies": ["Biocon", "Serum Institute", "Syngene International", "Novozymes", "Cipla"]
+    },
+    "industrySectors": ["healthcare", "agriculture", "food_processing", "environmental_science"],
+    "tags": ["biology", "genetics", "health_tech", "innovation", "lab_work"],
+    "matching": {
+      "primaryCourses": ["course_be_biotech"],
+      "secondaryCourses": ["course_msc_biotech"],
+      "relatedDomains": ["microbiology", "genetics", "pharmacology"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_microbiologist",
+    "slug": "microbiologist",
+    "title": "Microbiologist",
+    "domain": "Science",
+    "category": "life_sciences",
+    "description": "Studies microscopic organisms like bacteria, viruses, and fungi to understand their impact on humans and the environment.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "steady",
+      "popularityScore": 80,
+      "futureScope": "very_good",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "4-15 LPA", "min": 4, "max": 15, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Sc / M.Sc in Microbiology",
+      "recommendedCourses": ["science_pcb_11_12", "course_bsc_microbiology", "course_msc_microbiology"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["microbial_culture", "pathology", "sterilization_techniques", "microscopy", "immunology", "biochemical_tests"],
+      "soft": ["observation", "attention_to_detail", "integrity"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_microbiologist", "quality_control_associate", "lab_technician"],
+      "growthRoles": ["senior_microbiologist", "clinical_researcher", "quality_head", "consultant"]
+    },
+    "hiring": {
+      "entryMethods": ["hospital_hiring", "pharma_recruitments", "fssai_exams", "internships"],
+      "topCompanies": ["Dr. Reddy's", "Lupin", "Nestle", "SRL Diagnostics", "Johnson & Johnson"]
+    },
+    "industrySectors": ["pharmaceuticals", "food_and_beverage", "healthcare", "public_health"],
+    "tags": ["bacteria", "viruses", "healthcare", "diagnostics", "lab"],
+    "matching": {
+      "primaryCourses": ["course_msc_microbiology"],
+      "secondaryCourses": ["course_bsc_microbiology"],
+      "relatedDomains": ["virology", "immunology", "biotechnology"]
+    },
+    "featured": false
+  },
+  {
+    "_id": "job_chemist",
+    "slug": "chemist",
+    "title": "Chemist",
+    "domain": "Science",
+    "category": "chemical_sciences",
+    "description": "Studies the properties of matter and chemical reactions to develop new materials, drugs, and products for industrial use.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "steady",
+      "popularityScore": 82,
+      "futureScope": "good",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "4-16 LPA", "min": 4, "max": 16, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Sc / M.Sc in Chemistry",
+      "recommendedCourses": ["science_pcm_11_12", "course_bsc_chemistry", "course_msc_chemistry"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["analytical_chemistry", "organic_synthesis", "spectroscopy", "hplc_gc", "chemical_safety", "quality_assurance"],
+      "soft": ["analytical_skills", "precision", "logical_reasoning"]
+    },
+    "careerPath": {
+      "entryRoles": ["analytical_chemist", "production_chemist", "research_assistant"],
+      "growthRoles": ["senior_chemist", "formulation_scientist", "lab_manager", "technical_head"]
+    },
+    "hiring": {
+      "entryMethods": ["industrial_campus_hiring", "gate_chemistry", "pharma_off_campus", "internships"],
+      "topCompanies": ["Asian Paints", "Pidilite", "Hindustan Unilever", "Sun Pharma", "BASF India"]
+    },
+    "industrySectors": ["chemicals", "pharmaceuticals", "cosmetics", "paints_and_coatings"],
+    "tags": ["chemistry", "materials", "lab", "analysis", "formulas"],
+    "matching": {
+      "primaryCourses": ["course_msc_chemistry"],
+      "secondaryCourses": ["course_bsc_chemistry"],
+      "relatedDomains": ["material_science", "chemical_engineering", "pharmacology"]
+    },
+    "featured": false
+  },
+  {
+    "_id": "job_physicist",
+    "slug": "physicist",
+    "title": "Physicist",
+    "domain": "Science",
+    "category": "physical_sciences",
+    "description": "Investigates the fundamental laws of the universe, from subatomic particles to galaxies, using mathematical models and experiments.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "moderate",
+      "popularityScore": 75,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "7-25 LPA", "min": 7, "max": 25, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "M.Sc / PhD in Physics",
+      "recommendedCourses": ["science_pcm_11_12", "course_bsc_physics", "course_msc_physics", "course_phd_physics"],
+      "preferredLevels": ["pg", "doctorate"]
+    },
+    "skills": {
+      "technical": ["mathematical_modeling", "quantum_mechanics", "data_simulation", "computational_physics", "thermodynamics", "optics"],
+      "soft": ["abstract_thinking", "problem_solving", "perseverance"]
+    },
+    "careerPath": {
+      "entryRoles": ["research_scholar", "junior_physicist", "lab_demonstrator"],
+      "growthRoles": ["senior_researcher", "professor", "scientific_officer", "r_d_director"]
+    },
+    "hiring": {
+      "entryMethods": ["gate_physics", "jest_exam", "university_hiring", "government_research_exams"],
+      "topCompanies": ["ISRO", "BARC", "TIFR", "DRDO", "Intel"]
+    },
+    "industrySectors": ["space_research", "semiconductors", "energy", "academia"],
+    "tags": ["universe", "theory", "math", "quantum", "research"],
+    "matching": {
+      "primaryCourses": ["course_msc_physics"],
+      "secondaryCourses": ["course_bsc_physics"],
+      "relatedDomains": ["astronomy", "nuclear_physics", "data_science"]
+    },
+    "featured": false
+  },
+  {
+    "_id": "job_ui_ux_designer",
+    "slug": "ui-ux-designer",
+    "title": "UI/UX Designer",
+    "domain": "Design",
+    "category": "digital_design",
+    "description": "Focuses on the total user experience and the visual interface of digital products to ensure they are intuitive, accessible, and aesthetically pleasing.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "very_high",
+      "popularityScore": 96,
+      "futureScope": "excellent",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "5-25 LPA", "min": 5, "max": 25, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "Bachelor's in Design / Fine Arts / CS",
+      "recommendedCourses": ["any_stream_12", "course_b_des", "course_bfa", "ux_certification_google"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["figma", "adobe_xd", "wireframing", "prototyping", "user_research", "interaction_design"],
+      "soft": ["empathy", "communication", "critical_thinking"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_ux_designer", "ui_intern", "interaction_design_trainee"],
+      "growthRoles": ["senior_product_designer", "ux_manager", "head_of_design", "chief_design_officer"]
+    },
+    "hiring": {
+      "entryMethods": ["portfolio_showcase", "design_hackathons", "internships", "behance_dribbble_hiring"],
+      "topCompanies": ["Google", "Zomato", "Microsoft", "Cred", "Adobe"]
+    },
+    "industrySectors": ["it_services", "fintech", "e_commerce", "saas"],
+    "tags": ["ux", "ui", "product_design", "creativity", "user_centric"],
+    "matching": {
+      "primaryCourses": ["course_b_des"],
+      "secondaryCourses": ["course_bca", "course_bfa"],
+      "relatedDomains": ["frontend_development", "product_management"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_graphic_designer",
+    "slug": "graphic-designer",
+    "title": "Graphic Designer",
+    "domain": "Design",
+    "category": "visual_communication",
+    "description": "Creates visual concepts to communicate ideas that inspire, inform, or captivate consumers through layout and production design.",
+    "overview": {
+      "difficultyLevel": "medium",
+      "demandTrend": "steady",
+      "popularityScore": 92,
+      "futureScope": "good",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "3-12 LPA", "min": 3, "max": 12, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "Bachelor's in Graphic Design / Fine Arts",
+      "recommendedCourses": ["any_stream_12", "course_bfa", "course_b_des_communication"],
+      "preferredLevels": ["ug"]
+    },
+    "skills": {
+      "technical": ["adobe_photoshop", "adobe_illustrator", "typography", "branding", "layout_design", "vector_art"],
+      "soft": ["creativity", "time_management", "visual_storytelling"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_graphic_designer", "visual_designer_intern", "production_artist"],
+      "growthRoles": ["senior_designer", "art_director", "creative_director", "agency_owner"]
+    },
+    "hiring": {
+      "entryMethods": ["portfolio_review", "freelance_projects", "advertising_agencies", "off_campus"],
+      "topCompanies": ["Ogilvy", "Leo Burnett", "Schbang", "Pentagram", "In-house_Brand_Teams"]
+    },
+    "industrySectors": ["advertising", "publishing", "marketing", "digital_media"],
+    "tags": ["branding", "typography", "creative", "visuals", "marketing"],
+    "matching": {
+      "primaryCourses": ["course_bfa"],
+      "secondaryCourses": ["course_b_des_communication"],
+      "relatedDomains": ["illustration", "motion_graphics"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_interior_designer",
+    "slug": "interior-designer",
+    "title": "Interior Designer",
+    "domain": "Design",
+    "category": "spatial_design",
+    "description": "Plans and furnishes the interiors of private homes and commercial buildings to make them functional, safe, and aesthetically pleasing.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "high",
+      "popularityScore": 88,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "3.5-18 LPA", "min": 3.5, "max": 18, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Des / B.Arch / Diploma in Interior Design",
+      "recommendedCourses": ["any_stream_12", "course_b_des_interior", "course_b_arch", "diploma_interior"],
+      "preferredLevels": ["ug", "diploma"]
+    },
+    "skills": {
+      "technical": ["autocad", "sketchup", "3ds_max", "space_planning", "material_knowledge", "lighting_design"],
+      "soft": ["client_management", "spatial_awareness", "negotiation"]
+    },
+    "careerPath": {
+      "entryRoles": ["assistant_interior_designer", "draftsman", "junior_decorator"],
+      "growthRoles": ["senior_interior_architect", "project_manager", "studio_head", "consultant"]
+    },
+    "hiring": {
+      "entryMethods": ["design_studio_placements", "internships", "site_portfolio", "entrepreneurship"],
+      "topCompanies": ["Livspace", "Homelane", "KNS Architects", "TATA_Housing", "Hafele"]
+    },
+    "industrySectors": ["real_estate", "hospitality", "retail", "residential"],
+    "tags": ["decor", "architecture", "home_styling", "spatial", "renovation"],
+    "matching": {
+      "primaryCourses": ["course_b_des_interior"],
+      "secondaryCourses": ["course_b_arch"],
+      "relatedDomains": ["architecture", "landscape_design", "furniture_design"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_fashion_designer",
+    "slug": "fashion-designer",
+    "title": "Fashion Designer",
+    "domain": "Design",
+    "category": "apparel_design",
+    "description": "Conceptualizes and creates clothing, accessories, and footwear, considering trends, materials, and consumer preferences.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "steady",
+      "popularityScore": 95,
+      "futureScope": "good",
+      "workModes": ["onsite"]
+    },
+    "salary": { "average": "3-20 LPA", "min": 3, "max": 20, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "Bachelor's in Fashion Design (B.Des)",
+      "recommendedCourses": ["any_stream_12", "course_b_des_fashion", "nift_entrance_exam"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["garment_construction", "textile_science", "pattern_making", "fashion_illustration", "draping", "adobe_creative_suite"],
+      "soft": ["trend_forecasting", "creativity", "attention_to_detail"]
+    },
+    "careerPath": {
+      "entryRoles": ["design_assistant", "fashion_illustrator", "pattern_maker_intern"],
+      "growthRoles": ["lead_designer", "creative_director", "fashion_merchandiser", "brand_owner"]
+    },
+    "hiring": {
+      "entryMethods": ["nift_placements", "fashion_shows", "industry_internships", "boutique_hiring"],
+      "topCompanies": ["Aditya Birla Fashion", "Reliance Brands", "FabIndia", "Sabyasachi", "Raymond"]
+    },
+    "industrySectors": ["textiles", "retail_luxury", "e_commerce", "entertainment"],
+    "tags": ["clothing", "style", "textiles", "luxury", "trends"],
+    "matching": {
+      "primaryCourses": ["course_b_des_fashion"],
+      "secondaryCourses": ["course_m_des_fashion"],
+      "relatedDomains": ["textile_design", "fashion_styling", "retail_management"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_product_industrial_designer",
+    "slug": "industrial-designer",
+    "title": "Industrial Designer",
+    "domain": "Design",
+    "category": "product_manufacturing",
+    "description": "Develops concepts for manufactured products, such as cars, home appliances, and toys, combining art, business, and engineering.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "high",
+      "popularityScore": 85,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "4.5-22 LPA", "min": 4.5, "max": 22, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "B.Des / M.Des in Product/Industrial Design",
+      "recommendedCourses": ["science_11_12", "course_b_des_product", "course_be_mechanical"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["solidworks", "rhino_3d", "rendering", "manufacturing_processes", "ergonomics", "rapid_prototyping"],
+      "soft": ["analytical_thinking", "problem_solving", "collaboration"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_product_designer", "cad_technician", "model_maker"],
+      "growthRoles": ["senior_industrial_designer", "design_manager", "innovation_lead", "vp_product"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_placements", "portfolio_review", "design_competitions"],
+      "topCompanies": ["TATA Elxsi", "Samsung R&D", "Godrej", "Titan", "Mahindra_Design_Studio"]
+    },
+    "industrySectors": ["consumer_electronics", "automotive", "furniture", "medical_devices"],
+    "tags": ["hardware", "ergonomics", "manufacturing", "3d_modeling", "product"],
+    "matching": {
+      "primaryCourses": ["course_b_des_product"],
+      "secondaryCourses": ["course_be_mechanical"],
+      "relatedDomains": ["mechanical_engineering", "user_experience"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_motion_graphics_designer",
+    "slug": "motion-graphics-designer",
+    "title": "Motion Graphics Designer",
+    "domain": "Design",
+    "category": "animation_media",
+    "description": "Combines graphic design with animation and video to create moving visual effects for movies, websites, and television.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "very_high",
+      "popularityScore": 90,
+      "futureScope": "excellent",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "4-18 LPA", "min": 4, "max": 18, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "Degree/Diploma in Animation/Visual Communication",
+      "recommendedCourses": ["any_stream_12", "course_b_des_animation", "diploma_vfx"],
+      "preferredLevels": ["ug", "diploma"]
+    },
+    "skills": {
+      "technical": ["adobe_after_effects", "cinema_4d", "video_editing", "2d_3d_animation", "storyboarding", "sound_design"],
+      "soft": ["rhythm_timing", "visual_storytelling", "creativity"]
+    },
+    "careerPath": {
+      "entryRoles": ["junior_motion_designer", "vfx_intern", "video_editor_assistant"],
+      "growthRoles": ["senior_motion_artist", "animation_director", "creative_lead"]
+    },
+    "hiring": {
+      "entryMethods": ["showreel_hiring", "freelance_marketplaces", "studio_internships"],
+      "topCompanies": ["Netflix", "Star Plus", "Red Chillies VFX", "Byju's", "Digital_Marketing_Agencies"]
+    },
+    "industrySectors": ["entertainment", "advertising", "edtech", "gaming"],
+    "tags": ["animation", "video", "vfx", "motion", "storytelling"],
+    "matching": {
+      "primaryCourses": ["course_b_des_animation"],
+      "secondaryCourses": ["course_bfa", "diploma_vfx"],
+      "relatedDomains": ["video_production", "game_design"]
+    },
+    "featured": false
+  },
+  {
+    "_id": "job_product_manager",
+    "slug": "product-manager",
+    "title": "Product Manager",
+    "domain": "Management",
+    "category": "product_strategy",
+    "description": "Leads the lifecycle of a product from conception to launch, bridging the gap between business goals, user needs, and technical constraints.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "very_high",
+      "popularityScore": 98,
+      "futureScope": "excellent",
+      "workModes": ["remote", "hybrid", "onsite"]
+    },
+    "salary": { "average": "15-45 LPA", "min": 15, "max": 45, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "MBA / B.Tech + Experience",
+      "recommendedCourses": ["course_mba_marketing", "course_mba_operations", "product_management_certification"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["product_roadmap", "agile_methodology", "data_analytics", "user_research", "market_analysis", "a_b_testing"],
+      "soft": ["leadership", "stakeholder_management", "strategic_thinking"]
+    },
+    "careerPath": {
+      "entryRoles": ["associate_product_manager", "product_analyst", "junior_pm"],
+      "growthRoles": ["senior_pm", "director_of_product", "vp_product", "cpo"]
+    },
+    "hiring": {
+      "entryMethods": ["b_school_placements", "internal_transition", "product_hackathons", "referrals"],
+      "topCompanies": ["Google", "Amazon", "PhonePe", "Zomato", "Flipkart"]
+    },
+    "industrySectors": ["e_commerce", "fintech", "saas", "edtech"],
+    "tags": ["strategy", "product_led_growth", "leadership", "high_paying", "innovation"],
+    "matching": {
+      "primaryCourses": ["course_mba"],
+      "secondaryCourses": ["course_be_cse", "course_bba"],
+      "relatedDomains": ["marketing", "data_science", "business_strategy"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_project_manager",
+    "slug": "project-manager",
+    "title": "Project Manager",
+    "domain": "Management",
+    "category": "operations_delivery",
+    "description": "Responsible for planning, executing, and closing projects while managing timelines, budgets, and resource allocation to meet specific goals.",
+    "overview": {
+      "difficultyLevel": "medium_hard",
+      "demandTrend": "high",
+      "popularityScore": 94,
+      "futureScope": "very_good",
+      "workModes": ["hybrid", "onsite", "remote"]
+    },
+    "salary": { "average": "10-28 LPA", "min": 10, "max": 28, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "Bachelor's Degree + PMP Certification",
+      "recommendedCourses": ["course_bba", "course_mba", "pmp_certification", "scrum_master"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["scrum_kanban", "jira_asana", "budgeting", "risk_management", "resource_planning", "ms_project"],
+      "soft": ["organization", "time_management", "conflict_resolution"]
+    },
+    "careerPath": {
+      "entryRoles": ["project_coordinator", "junior_project_manager", "operations_assistant"],
+      "growthRoles": ["program_manager", "portfolio_manager", "director_of_operations", "coo"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_placements", "lateral_hiring", "certifications", "consulting_firms"],
+      "topCompanies": ["Accenture", "TCS", "L&T", "Deloitte", "Cognizant"]
+    },
+    "industrySectors": ["it_services", "construction", "manufacturing", "healthcare"],
+    "tags": ["planning", "delivery", "agile", "coordination", "execution"],
+    "matching": {
+      "primaryCourses": ["course_mba_operations"],
+      "secondaryCourses": ["course_be", "course_bba"],
+      "relatedDomains": ["supply_chain", "logistics", "business_analysis"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_marketing_manager",
+    "slug": "marketing-manager",
+    "title": "Marketing Manager",
+    "domain": "Management",
+    "category": "sales_marketing",
+    "description": "Develops and executes strategies to promote products or brands, managing budgets and campaigns across digital and traditional channels.",
+    "overview": {
+      "difficultyLevel": "medium",
+      "demandTrend": "high",
+      "popularityScore": 92,
+      "futureScope": "very_good",
+      "workModes": ["hybrid", "remote", "onsite"]
+    },
+    "salary": { "average": "8-25 LPA", "min": 8, "max": 25, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "MBA in Marketing / BBA",
+      "recommendedCourses": ["course_mba_marketing", "digital_marketing_certification", "course_bmm"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["digital_marketing", "seo_sem", "brand_management", "market_research", "content_strategy", "crm_tools"],
+      "soft": ["creativity", "persuasion", "analytical_mindset"]
+    },
+    "careerPath": {
+      "entryRoles": ["marketing_executive", "digital_marketing_associate", "brand_trainee"],
+      "growthRoles": ["brand_manager", "marketing_director", "cmo", "regional_head"]
+    },
+    "hiring": {
+      "entryMethods": ["b_school_hiring", "agency_recruitment", "internships", "social_media_portfolio"],
+      "topCompanies": ["HUL", "P&G", "Coca-Cola", "PepsiCo", "Nestle"]
+    },
+    "industrySectors": ["fmcg", "digital_agencies", "e_commerce", "luxury_retail"],
+    "tags": ["branding", "growth", "advertising", "customer_insight", "digital"],
+    "matching": {
+      "primaryCourses": ["course_mba_marketing"],
+      "secondaryCourses": ["course_bba", "course_bcom"],
+      "relatedDomains": ["advertising", "public_relations", "content_creation"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_human_resources_manager",
+    "slug": "hr-manager",
+    "title": "HR Manager",
+    "domain": "Management",
+    "category": "human_capital",
+    "description": "Oversees recruitment, employee relations, performance management, and organizational culture while ensuring legal compliance.",
+    "overview": {
+      "difficultyLevel": "medium",
+      "demandTrend": "steady",
+      "popularityScore": 88,
+      "futureScope": "good",
+      "workModes": ["hybrid", "onsite"]
+    },
+    "salary": { "average": "7-20 LPA", "min": 7, "max": 20, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "MBA in HR / PGDM",
+      "recommendedCourses": ["course_mba_hr", "course_msw", "shrm_certification"],
+      "preferredLevels": ["pg"]
+    },
+    "skills": {
+      "technical": ["talent_acquisition", "payroll_management", "labor_laws", "hrms_software", "performance_appraisal", "employee_engagement"],
+      "soft": ["empathy", "negotiation", "cultural_intelligence"]
+    },
+    "careerPath": {
+      "entryRoles": ["hr_executive", "recruiter", "hr_coordinator"],
+      "growthRoles": ["hr_business_partner", "hr_director", "chro", "chief_people_officer"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_placements", "staffing_agencies", "referrals", "professional_networking"],
+      "topCompanies": ["Infosys", "Wipro", "Reliance", "Standard_Chartered", "EY"]
+    },
+    "industrySectors": ["it_services", "banking", "manufacturing", "consulting"],
+    "tags": ["people", "culture", "recruitment", "talent", "policy"],
+    "matching": {
+      "primaryCourses": ["course_mba_hr"],
+      "secondaryCourses": ["course_bba", "course_psychology"],
+      "relatedDomains": ["organizational_development", "corporate_law"]
+    },
+    "featured": false
+  },
+  {
+    "_id": "job_operations_manager",
+    "slug": "operations-manager",
+    "title": "Operations Manager",
+    "domain": "Management",
+    "category": "business_operations",
+    "description": "Ensures day-to-day business processes are efficient and effective, focusing on supply chain, production, and cost optimization.",
+    "overview": {
+      "difficultyLevel": "hard",
+      "demandTrend": "high",
+      "popularityScore": 90,
+      "futureScope": "very_good",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "10-30 LPA", "min": 10, "max": 30, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "MBA in Operations / Supply Chain",
+      "recommendedCourses": ["course_mba_operations", "lean_six_sigma", "course_be_mechanical"],
+      "preferredLevels": ["ug", "pg"]
+    },
+    "skills": {
+      "technical": ["supply_chain_management", "inventory_control", "lean_manufacturing", "erp_systems", "quality_assurance", "logistics_optimization"],
+      "soft": ["problem_solving", "leadership", "efficiency_focus"]
+    },
+    "careerPath": {
+      "entryRoles": ["operations_trainee", "supply_chain_analyst", "floor_manager"],
+      "growthRoles": ["plant_manager", "director_of_operations", "coo", "supply_chain_head"]
+    },
+    "hiring": {
+      "entryMethods": ["b_school_hiring", "industrial_placements", "internal_promotion", "lateral_hiring"],
+      "topCompanies": ["Amazon_Operations", "Delhivery", "FedEx", "Tata_Steel", "Unilever"]
+    },
+    "industrySectors": ["logistics", "manufacturing", "e_commerce", "retail"],
+    "tags": ["efficiency", "supply_chain", "process", "optimization", "logistics"],
+    "matching": {
+      "primaryCourses": ["course_mba_operations"],
+      "secondaryCourses": ["course_be_production"],
+      "relatedDomains": ["industrial_engineering", "project_management"]
+    },
+    "featured": true
+  },
+  {
+    "_id": "job_finance_manager",
+    "slug": "finance-manager",
+    "title": "Finance Manager",
+    "domain": "Management",
+    "category": "finance_accounting",
+    "description": "Oversees the financial health of an organization, including budgeting, financial reporting, risk assessment, and investment strategies.",
+    "overview": {
+      "difficultyLevel": "very_hard",
+      "demandTrend": "high",
+      "popularityScore": 93,
+      "futureScope": "excellent",
+      "workModes": ["onsite", "hybrid"]
+    },
+    "salary": { "average": "12-35 LPA", "min": 12, "max": 35, "currency": "LPA"},
+    "education": {
+      "minimumQualification": "CA / MBA Finance",
+      "recommendedCourses": ["course_ca", "course_mba_finance", "cfa_certification"],
+      "preferredLevels": ["pg", "professional_degree"]
+    },
+    "skills": {
+      "technical": ["financial_modeling", "auditing", "taxation", "risk_management", "corporate_finance", "accounting_standards"],
+      "soft": ["integrity", "analytical_precision", "decision_making"]
+    },
+    "careerPath": {
+      "entryRoles": ["finance_executive", "audit_associate", "investment_analyst"],
+      "growthRoles": ["financial_controller", "vp_finance", "cfo", "investment_director"]
+    },
+    "hiring": {
+      "entryMethods": ["campus_placements", "big_4_recruitment", "professional_referrals", "banking_exams"],
+      "topCompanies": ["Goldman Sachs", "JP Morgan", "HDFC Bank", "PwC", "KPMG"]
+    },
+    "industrySectors": ["banking", "fintech", "insurance", "corporate_finance"],
+    "tags": ["money", "strategy", "investment", "budgeting", "analysis"],
+    "matching": {
+      "primaryCourses": ["course_mba_finance", "course_ca"],
+      "secondaryCourses": ["course_bcom", "course_cfa"],
+      "relatedDomains": ["accounting", "investment_banking", "wealth_management"]
+    },
+    "featured": true
+  }
+
+]
