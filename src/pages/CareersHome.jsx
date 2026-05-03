@@ -5,6 +5,7 @@ import CareerOverlayCard from "../components/careersPage/careerOvelayCard";
 import CareerHero from "../components/careersPage/HeroCareersPage";
 import CareerCardShow from "../components/Pathfinder/CareerCardShow";
 import { useSearch } from "../context/SearchContext";
+import MargaLoader from "../components/Loader";
 
 // 🔥 Domain Config
 const domainConfig = {
@@ -88,7 +89,7 @@ const CareersHome = () => {
   if (loading) {
     return (
       <MainLayout>
-        <div className="text-white p-10">Loading...</div>
+          <MargaLoader />
       </MainLayout>
     );
   }

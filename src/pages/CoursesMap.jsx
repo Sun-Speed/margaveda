@@ -36,7 +36,9 @@ export default function CoursesMap() {
 
     const fetchStreams = async () => {
       try {
-        const res = await axios.get("https://margaveda.onrender.com/api/streams");
+        const res = await axios.get(
+          "https://margaveda.onrender.com/api/streams",
+        );
 
         const data = Array.isArray(res.data) ? res.data : res.data?.data || [];
         setStreams(data);
@@ -47,7 +49,9 @@ export default function CoursesMap() {
 
     const fetchCourses = async () => {
       try {
-        const res = await axios.get("https://margaveda.onrender.com/api/courses");
+        const res = await axios.get(
+          "https://margaveda.onrender.com/api/courses",
+        );
 
         const data = Array.isArray(res.data) ? res.data : res.data?.data || [];
         setCourses(data);
@@ -86,11 +90,14 @@ export default function CoursesMap() {
         // 🔥 no login
         if (!token) return;
 
-        const res = await axios.get("https://margaveda.onrender.com/api/auth/me", {
-          headers: {
-            Authorization: `Bearer ${token}`,
+        const res = await axios.get(
+          "https://margaveda.onrender.com/api/auth/me",
+          {
+            headers: {
+              Authorization: `Bearer ${token}`,
+            },
           },
-        });
+        );
 
         // 🔥 saved paths from DB
         setFavoritePaths(res.data.user.savedPaths || []);
@@ -244,15 +251,18 @@ export default function CoursesMap() {
     try {
       const token = localStorage.getItem("token");
 
-      await axios.delete("https://margaveda.onrender.com/api/auth/remove-path", {
-        headers: {
-          Authorization: `Bearer ${token}`,
-        },
+      await axios.delete(
+        "https://margaveda.onrender.com/api/auth/remove-path",
+        {
+          headers: {
+            Authorization: `Bearer ${token}`,
+          },
 
-        data: {
-          pathId,
+          data: {
+            pathId,
+          },
         },
-      });
+      );
 
       // 🔥 instant UI update
       setFavoritePaths((prev) => prev.filter((path) => path.id !== pathId));
@@ -359,12 +369,12 @@ export default function CoursesMap() {
         </div>
 
         {/* 🔥 SHOW TABS ONLY FOR LOGGED USER */}
-        {user && (
-          <div className="flex w-full gap-4 mb-12 h-64">
-            {/* Box 1: Explored Paths */}
-            <div
-              onClick={() => setActiveTab("explored")}
-              className={`
+
+        <div className="flex w-full gap-4 mb-12 h-64">
+          {/* Box 1: Explored Paths */}
+          <div
+            onClick={() => setActiveTab("explored")}
+            className={`
         flex-1 relative overflow-hidden rounded-3xl cursor-pointer
         transition-all duration-500 border group
         ${
@@ -373,17 +383,17 @@ export default function CoursesMap() {
             : "bg-white/5 border-white/10 hover:border-white/20"
         }
       `}
-            >
-              <div className="absolute inset-0 flex flex-col items-center justify-center p-6 text-center">
-                <span className="text-white/40 text-[10px] uppercase tracking-[0.3em] mb-2 font-bold">
-                  Session History
-                </span>
-                <h3 className="text-xl font-black text-white mb-6 uppercase tracking-wider">
-                  Explored Paths
-                </h3>
+          >
+            <div className="absolute inset-0 flex flex-col items-center justify-center p-6 text-center">
+              <span className="text-white/40 text-[10px] uppercase tracking-[0.3em] mb-2 font-bold">
+                Session History
+              </span>
+              <h3 className="text-xl font-black text-white mb-6 uppercase tracking-wider">
+                Explored Paths
+              </h3>
 
-                <button
-                  className={`
+              <button
+                className={`
           px-6 py-2 rounded-xl text-[10px] font-black uppercase tracking-widest transition-all
           ${
             activeTab === "explored"
@@ -391,18 +401,18 @@ export default function CoursesMap() {
               : "bg-white/10 text-white/70 group-hover:bg-white/20"
           }
         `}
-                >
-                  View History
-                </button>
-              </div>
-              {/* Background Accent Glow */}
-              <div className="absolute -bottom-10 -right-10 w-32 h-32 bg-cyan-500/10 blur-[50px] rounded-full" />
+              >
+                View History
+              </button>
             </div>
+            {/* Background Accent Glow */}
+            <div className="absolute -bottom-10 -right-10 w-32 h-32 bg-cyan-500/10 blur-[50px] rounded-full" />
+          </div>
 
-            {/* Box 2: Saved Paths */}
-            <div
-              onClick={() => setActiveTab("favorites")}
-              className={`
+          {/* Box 2: Saved Paths */}
+          <div
+            onClick={() => setActiveTab("favorites")}
+            className={`
         flex-1 relative overflow-hidden rounded-3xl cursor-pointer
         transition-all duration-500 border group
         ${
@@ -411,17 +421,17 @@ export default function CoursesMap() {
             : "bg-white/5 border-white/10 hover:border-white/20"
         }
       `}
-            >
-              <div className="absolute inset-0 flex flex-col items-center justify-center p-6 text-center">
-                <span className="text-white/40 text-[10px] uppercase tracking-[0.3em] mb-2 font-bold">
-                  Cloud Storage
-                </span>
-                <h3 className="text-xl font-black text-white mb-6 uppercase tracking-wider">
-                  Saved Paths
-                </h3>
+          >
+            <div className="absolute inset-0 flex flex-col items-center justify-center p-6 text-center">
+              <span className="text-white/40 text-[10px] uppercase tracking-[0.3em] mb-2 font-bold">
+                Cloud Storage
+              </span>
+              <h3 className="text-xl font-black text-white mb-6 uppercase tracking-wider">
+                Saved Paths
+              </h3>
 
-                <button
-                  className={`
+              <button
+                className={`
           px-6 py-2 rounded-xl text-[10px] font-black uppercase tracking-widest transition-all
           ${
             activeTab === "favorites"
@@ -429,15 +439,14 @@ export default function CoursesMap() {
               : "bg-white/10 text-white/70 group-hover:bg-white/20"
           }
         `}
-                >
-                  Access DB
-                </button>
-              </div>
-              {/* Background Accent Glow */}
-              <div className="absolute -bottom-10 -right-10 w-32 h-32 bg-emerald-500/10 blur-[50px] rounded-full" />
+              >
+                Access DB
+              </button>
             </div>
+            {/* Background Accent Glow */}
+            <div className="absolute -bottom-10 -right-10 w-32 h-32 bg-emerald-500/10 blur-[50px] rounded-full" />
           </div>
-        )}
+        </div>
 
         {user && activeTab === "explored" && (
           <div className="w-full max-w-7xl mx-auto px-4 relative group">
