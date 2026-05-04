@@ -448,7 +448,7 @@ export default function CoursesMap() {
           </div>
         </div>
 
-        {user && activeTab === "explored" && (
+        {activeTab === "explored" && (
           <div className="w-full max-w-7xl mx-auto px-4 relative group">
             <button
               onClick={prevSlide}
