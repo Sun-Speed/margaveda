@@ -12,7 +12,7 @@ export const sendOTPEmail = async (email, otp) => {
 
     const response = await resend.emails.send({
 
-      from: "onboarding@resend.dev",
+      from: process.env.EMAIL_FROM,
 
       to: email,
 
