@@ -116,6 +116,14 @@ const loading = !streamLoaded || !coursesLoaded;
     "Law",
     "Defence",
     "Aviation",
+    "Nursing",
+    "Paramedical",
+    "Pharmacy",
+    "Therapy",
+    "Biology_None_Clinical",
+    "Diploma_Medical",
+    "Medical_Certifications",
+    "Other_Medical_Healthcare",
   ];
 
   const artsClusters = [...scienceClusters];
